@@ -1,0 +1,10 @@
+module_order,module_id,object_name,module,mm_column,gs_column,metal_set,plot_colour,main_panel,panel
+1,AD_ERC_greenyellow,geneInfo_ERC,greenyellow,MM.greenyellow,GS.sample_group,Copper,#78A800,TRUE,A
+2,AD_ERC_darkred,geneInfo_ERC,darkred,MM.darkred,GS.sample_group,Broad iron,#8B1A1A,FALSE,A
+3,AD_HIPPO_yellow,geneInfo_HIPPO,yellow,MM.yellow,GS.sample_group,Core iron,#D8A900,FALSE,B
+4,FTLD1_red,geneInfo_FTLD1,red,MM.red,GS.FTLD,Copper,#D73027,TRUE,B
+5,FTLD2_darkmagenta,geneInfo_FTLD2,darkmagenta,MMdarkmagenta,GS.sample_group,Broad and core iron,#9E006E,TRUE,C
+6,FTLD3_black,geneInfo_FTLD3,black,MM.black,GS.sample_group,Broad and core iron,#2B2B2B,FALSE,C
+7,FTLD3_turquoise,geneInfo_FTLD3,turquoise,MM.turquoise,GS.sample_group,Broad and core iron,#109C95,TRUE,D
+8,MSA_violet,MSAgeneInfo0K,violet,MM.violet,GS.MSA,Core iron,#7655A5,FALSE,D
+9,PSP_pink,PSPgeneInfo0K,pink,MM.pink,GS.PSP,Core iron,#D65A91,FALSE,E

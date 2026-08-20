@@ -1,0 +1,1646 @@
+{
+  "R": {
+    "Version": "4.5.1",
+    "Repositories": [
+      {
+        "Name": "CRAN",
+        "URL": "https://cloud.r-project.org"
+      },
+      {
+        "Name": "BioCsoft",
+        "URL": "https://bioconductor.org/packages/3.22/bioc"
+      },
+      {
+        "Name": "BioCann",
+        "URL": "https://bioconductor.org/packages/3.22/data/annotation"
+      },
+      {
+        "Name": "BioCexp",
+        "URL": "https://bioconductor.org/packages/3.22/data/experiment"
+      }
+    ]
+  },
+  "Bioconductor": {
+    "Version": "3.22"
+  },
+  "Packages": {
+    "abind": {
+      "Package": "abind",
+      "Version": "1.4-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "affy": {
+      "Package": "affy",
+      "Version": "1.88.0",
+      "Source": "Bioconductor",
+      "Requirements": ["affyio", "Biobase", "BiocGenerics", "BiocManager", "preprocessCore"]
+    },
+    "affyio": {
+      "Package": "affyio",
+      "Version": "1.80.0",
+      "Source": "Bioconductor"
+    },
+    "annotate": {
+      "Package": "annotate",
+      "Version": "1.88.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "Biobase", "BiocGenerics", "DBI", "httr", "XML", "xtable"]
+    },
+    "AnnotationDbi": {
+      "Package": "AnnotationDbi",
+      "Version": "1.72.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "BiocGenerics", "DBI", "IRanges", "KEGGREST", "RSQLite", "S4Vectors"]
+    },
+    "AnnotationFilter": {
+      "Package": "AnnotationFilter",
+      "Version": "1.34.0",
+      "Source": "Bioconductor",
+      "Requirements": ["GenomicRanges", "lazyeval"]
+    },
+    "AnnotationHub": {
+      "Package": "AnnotationHub",
+      "Version": "4.0.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiocBaseUtils", "BiocFileCache", "BiocGenerics", "BiocManager", "BiocVersion", "curl", "dplyr", "httr2", "rappdirs", "RSQLite", "S4Vectors", "yaml"]
+    },
+    "askpass": {
+      "Package": "askpass",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "sys"
+    },
+    "assorthead": {
+      "Package": "assorthead",
+      "Version": "1.4.0",
+      "Source": "Bioconductor"
+    },
+    "backports": {
+      "Package": "backports",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "base64": {
+      "Package": "base64",
+      "Version": "2.0.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "openssl"
+    },
+    "base64enc": {
+      "Package": "base64enc",
+      "Version": "0.1-3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "beachmat": {
+      "Package": "beachmat",
+      "Version": "2.26.0",
+      "Source": "Bioconductor",
+      "Requirements": ["assorthead", "BiocGenerics", "DelayedArray", "Rcpp", "SparseArray"]
+    },
+    "beanplot": {
+      "Package": "beanplot",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "BH": {
+      "Package": "BH",
+      "Version": "1.87.0-1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "BiasedUrn": {
+      "Package": "BiasedUrn",
+      "Version": "2.0.12",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Biobase": {
+      "Package": "Biobase",
+      "Version": "2.70.0",
+      "Source": "Bioconductor",
+      "Requirements": "BiocGenerics"
+    },
+    "BiocBaseUtils": {
+      "Package": "BiocBaseUtils",
+      "Version": "1.12.0",
+      "Source": "Bioconductor"
+    },
+    "BiocFileCache": {
+      "Package": "BiocFileCache",
+      "Version": "3.0.0",
+      "Source": "Bioconductor",
+      "Requirements": ["curl", "DBI", "dbplyr", "dplyr", "filelock", "httr2", "RSQLite"]
+    },
+    "BiocGenerics": {
+      "Package": "BiocGenerics",
+      "Version": "0.56.0",
+      "Source": "Bioconductor",
+      "Requirements": "generics"
+    },
+    "BiocIO": {
+      "Package": "BiocIO",
+      "Version": "1.20.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "S4Vectors"]
+    },
+    "BiocManager": {
+      "Package": "BiocManager",
+      "Version": "1.30.27",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "BiocParallel": {
+      "Package": "BiocParallel",
+      "Version": "1.44.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BH", "cpp11", "futile.logger", "snow"]
+    },
+    "BiocVersion": {
+      "Package": "BiocVersion",
+      "Version": "3.22.0",
+      "Source": "Bioconductor"
+    },
+    "biomaRt": {
+      "Package": "biomaRt",
+      "Version": "2.66.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiocFileCache", "curl", "httr2", "progress", "stringr", "xml2"]
+    },
+    "Biostrings": {
+      "Package": "Biostrings",
+      "Version": "2.78.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "crayon", "IRanges", "S4Vectors", "Seqinfo", "XVector"]
+    },
+    "biovizBase": {
+      "Package": "biovizBase",
+      "Version": "1.58.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "AnnotationFilter", "BiocGenerics", "Biostrings", "dichromat", "ensembldb", "GenomeInfoDb", "GenomicAlignments", "GenomicFeatures", "GenomicRanges", "Hmisc", "IRanges", "RColorBrewer", "rlang", "Rsamtools", "S4Vectors", "scales", "Seqinfo", "SummarizedExperiment", "VariantAnnotation"]
+    },
+    "bit": {
+      "Package": "bit",
+      "Version": "4.6.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "bit64": {
+      "Package": "bit64",
+      "Version": "4.6.0-1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "bit"
+    },
+    "bitops": {
+      "Package": "bitops",
+      "Version": "1.0-9",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "blob": {
+      "Package": "blob",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["rlang", "vctrs"]
+    },
+    "BSgenome": {
+      "Package": "BSgenome",
+      "Version": "1.78.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "BiocIO", "Biostrings", "GenomicRanges", "IRanges", "matrixStats", "Rsamtools", "rtracklayer", "S4Vectors", "Seqinfo", "XVector"]
+    },
+    "bslib": {
+      "Package": "bslib",
+      "Version": "0.9.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["base64enc", "cachem", "fastmap", "htmltools", "jquerylib", "jsonlite", "lifecycle", "memoise", "mime", "rlang", "sass"]
+    },
+    "bsseq": {
+      "Package": "bsseq",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "Requirements": ["assorthead", "beachmat", "Biobase", "BiocGenerics", "BiocParallel", "Biostrings", "BSgenome", "data.table", "DelayedArray", "DelayedMatrixStats", "GenomicRanges", "gtools", "HDF5Array", "IRanges", "limma", "locfit", "permute", "R.utils", "Rcpp", "rhdf5", "S4Vectors", "scales", "Seqinfo", "SummarizedExperiment"]
+    },
+    "bumphunter": {
+      "Package": "bumphunter",
+      "Version": "1.52.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiocGenerics", "doRNG", "foreach", "GenomicFeatures", "GenomicRanges", "IRanges", "iterators", "limma", "locfit", "matrixStats", "S4Vectors", "Seqinfo"]
+    },
+    "cachem": {
+      "Package": "cachem",
+      "Version": "1.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fastmap", "rlang"]
+    },
+    "ChAMP": {
+      "Package": "ChAMP",
+      "Version": "2.40.0",
+      "Source": "Bioconductor",
+      "Requirements": ["bumphunter", "ChAMPdata", "combinat", "dendextend", "DMRcate", "DNAcopy", "doParallel", "DT", "GenomicRanges", "ggplot2", "globaltest", "goseq", "Hmisc", "Illumina450ProbeVariants.db", "IlluminaHumanMethylation450kmanifest", "IlluminaHumanMethylationEPICanno.ilm10b4.hg19", "IlluminaHumanMethylationEPICmanifest", "illuminaio", "impute", "isva", "limma", "marray", "matrixStats", "minfi", "missMethyl", "plotly", "plyr", "preprocessCore", "prettydoc", "quadprog", "qvalue", "RColorBrewer", "rmarkdown", "RPMM", "shiny", "shinythemes", "sva", "wateRmelon"]
+    },
+    "ChAMPdata": {
+      "Package": "ChAMPdata",
+      "Version": "2.42.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "GenomicRanges"]
+    },
+    "checkmate": {
+      "Package": "checkmate",
+      "Version": "2.3.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "backports"
+    },
+    "cigarillo": {
+      "Package": "cigarillo",
+      "Version": "1.0.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "Biostrings", "IRanges", "S4Vectors"]
+    },
+    "circlize": {
+      "Package": "circlize",
+      "Version": "0.4.18",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["colorspace", "GlobalOptions", "shape"]
+    },
+    "cli": {
+      "Package": "cli",
+      "Version": "3.6.5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "clipr": {
+      "Package": "clipr",
+      "Version": "0.8.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "clue": {
+      "Package": "clue",
+      "Version": "0.3-66",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "colorspace": {
+      "Package": "colorspace",
+      "Version": "2.1-2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "combinat": {
+      "Package": "combinat",
+      "Version": "0.0-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "commonmark": {
+      "Package": "commonmark",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "cpp11": {
+      "Package": "cpp11",
+      "Version": "0.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "crayon": {
+      "Package": "crayon",
+      "Version": "1.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "crosstalk": {
+      "Package": "crosstalk",
+      "Version": "1.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["htmltools", "jsonlite", "lazyeval", "R6"]
+    },
+    "curl": {
+      "Package": "curl",
+      "Version": "7.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "data.table": {
+      "Package": "data.table",
+      "Version": "1.17.8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "DBI": {
+      "Package": "DBI",
+      "Version": "1.2.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "dbplyr": {
+      "Package": "dbplyr",
+      "Version": "2.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["blob", "cli", "DBI", "dplyr", "glue", "lifecycle", "magrittr", "pillar", "purrr", "R6", "rlang", "tibble", "tidyr", "tidyselect", "vctrs", "withr"]
+    },
+    "DelayedArray": {
+      "Package": "DelayedArray",
+      "Version": "0.36.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "MatrixGenerics", "S4Arrays", "S4Vectors", "SparseArray"]
+    },
+    "DelayedMatrixStats": {
+      "Package": "DelayedMatrixStats",
+      "Version": "1.32.0",
+      "Source": "Bioconductor",
+      "Requirements": ["DelayedArray", "IRanges", "MatrixGenerics", "S4Vectors", "SparseArray", "sparseMatrixStats"]
+    },
+    "deldir": {
+      "Package": "deldir",
+      "Version": "2.0-4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "dendextend": {
+      "Package": "dendextend",
+      "Version": "1.19.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["ggplot2", "magrittr", "viridis"]
+    },
+    "dichromat": {
+      "Package": "dichromat",
+      "Version": "2.0-0.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "digest": {
+      "Package": "digest",
+      "Version": "0.6.39",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "DMRcate": {
+      "Package": "DMRcate",
+      "Version": "3.6.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationHub", "biomaRt", "bsseq", "edgeR", "ExperimentHub", "GenomicRanges", "Gviz", "IRanges", "limma", "minfi", "missMethyl", "plyr", "S4Vectors", "Seqinfo", "SummarizedExperiment"]
+    },
+    "DNAcopy": {
+      "Package": "DNAcopy",
+      "Version": "1.84.0",
+      "Source": "Bioconductor"
+    },
+    "doParallel": {
+      "Package": "doParallel",
+      "Version": "1.0.17",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["foreach", "iterators"]
+    },
+    "doRNG": {
+      "Package": "doRNG",
+      "Version": "1.8.6.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["foreach", "iterators", "rngtools"]
+    },
+    "dplyr": {
+      "Package": "dplyr",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "generics", "glue", "lifecycle", "magrittr", "pillar", "R6", "rlang", "tibble", "tidyselect", "vctrs"]
+    },
+    "DT": {
+      "Package": "DT",
+      "Version": "0.34.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["crosstalk", "htmltools", "htmlwidgets", "jquerylib", "jsonlite", "magrittr", "promises"]
+    },
+    "edgeR": {
+      "Package": "edgeR",
+      "Version": "4.8.0",
+      "Source": "Bioconductor",
+      "Requirements": ["limma", "locfit"]
+    },
+    "ensembldb": {
+      "Package": "ensembldb",
+      "Version": "2.34.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "AnnotationFilter", "Biobase", "BiocGenerics", "Biostrings", "curl", "DBI", "GenomeInfoDb", "GenomicFeatures", "GenomicRanges", "IRanges", "ProtGenerics", "Rsamtools", "RSQLite", "rtracklayer", "S4Vectors", "Seqinfo"]
+    },
+    "evaluate": {
+      "Package": "evaluate",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "ExperimentHub": {
+      "Package": "ExperimentHub",
+      "Version": "3.0.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationHub", "BiocFileCache", "BiocGenerics", "BiocManager", "rappdirs", "S4Vectors"]
+    },
+    "farver": {
+      "Package": "farver",
+      "Version": "2.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fastICA": {
+      "Package": "fastICA",
+      "Version": "1.2-7",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fastmap": {
+      "Package": "fastmap",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "filelock": {
+      "Package": "filelock",
+      "Version": "1.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "flextable": {
+      "Package": "flextable",
+      "Version": "0.10.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["data.table", "gdtools", "htmltools", "knitr", "officer", "ragg", "rlang", "rmarkdown", "uuid", "xml2"]
+    },
+    "fontawesome": {
+      "Package": "fontawesome",
+      "Version": "0.5.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["htmltools", "rlang"]
+    },
+    "fontBitstreamVera": {
+      "Package": "fontBitstreamVera",
+      "Version": "0.1.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fontLiberation": {
+      "Package": "fontLiberation",
+      "Version": "0.1.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fontquiver": {
+      "Package": "fontquiver",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fontBitstreamVera", "fontLiberation"]
+    },
+    "foreach": {
+      "Package": "foreach",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "iterators"
+    },
+    "formatR": {
+      "Package": "formatR",
+      "Version": "1.14",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Formula": {
+      "Package": "Formula",
+      "Version": "1.2-5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "fs": {
+      "Package": "fs",
+      "Version": "1.6.6",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "futile.logger": {
+      "Package": "futile.logger",
+      "Version": "1.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["futile.options", "lambda.r"]
+    },
+    "futile.options": {
+      "Package": "futile.options",
+      "Version": "1.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "gdtools": {
+      "Package": "gdtools",
+      "Version": "0.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fontquiver", "htmltools", "Rcpp", "systemfonts"]
+    },
+    "genefilter": {
+      "Package": "genefilter",
+      "Version": "1.92.0",
+      "Source": "Bioconductor",
+      "Requirements": ["annotate", "AnnotationDbi", "Biobase", "MatrixGenerics"]
+    },
+    "geneLenDataBase": {
+      "Package": "geneLenDataBase",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "Requirements": ["GenomicFeatures", "rtracklayer", "txdbmaker"]
+    },
+    "generics": {
+      "Package": "generics",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "GenomeInfoDb": {
+      "Package": "GenomeInfoDb",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "S4Vectors", "Seqinfo", "UCSC.utils"]
+    },
+    "GenomicAlignments": {
+      "Package": "GenomicAlignments",
+      "Version": "1.46.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "BiocParallel", "Biostrings", "cigarillo", "GenomicRanges", "IRanges", "Rsamtools", "S4Vectors", "Seqinfo", "SummarizedExperiment"]
+    },
+    "GenomicFeatures": {
+      "Package": "GenomicFeatures",
+      "Version": "1.62.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiocGenerics", "Biostrings", "DBI", "GenomicRanges", "IRanges", "rtracklayer", "S4Vectors", "Seqinfo", "XVector"]
+    },
+    "GenomicRanges": {
+      "Package": "GenomicRanges",
+      "Version": "1.62.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "S4Vectors", "Seqinfo"]
+    },
+    "GEOquery": {
+      "Package": "GEOquery",
+      "Version": "2.78.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "curl", "data.table", "dplyr", "httr2", "limma", "magrittr", "R.utils", "readr", "rentrez", "rvest", "S4Vectors", "stringr", "SummarizedExperiment", "tidyr", "xml2"]
+    },
+    "ggplot2": {
+      "Package": "ggplot2",
+      "Version": "4.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "gtable", "isoband", "lifecycle", "rlang", "S7", "scales", "vctrs", "withr"]
+    },
+    "ggrepel": {
+      "Package": "ggrepel",
+      "Version": "0.9.8",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["ggplot2", "Rcpp", "rlang", "S7", "scales", "withr"]
+    },
+    "GlobalOptions": {
+      "Package": "GlobalOptions",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "globaltest": {
+      "Package": "globaltest",
+      "Version": "5.64.0",
+      "Source": "Bioconductor",
+      "Requirements": ["annotate", "AnnotationDbi", "Biobase"]
+    },
+    "glue": {
+      "Package": "glue",
+      "Version": "1.8.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "GO.db": {
+      "Package": "GO.db",
+      "Version": "3.22.0",
+      "Source": "Bioconductor",
+      "Requirements": "AnnotationDbi"
+    },
+    "goseq": {
+      "Package": "goseq",
+      "Version": "1.62.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiasedUrn", "BiocGenerics", "geneLenDataBase", "GenomicFeatures", "GO.db", "rtracklayer", "Seqinfo"]
+    },
+    "gprofiler2": {
+      "Package": "gprofiler2",
+      "Version": "0.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["crosstalk", "curl", "dplyr", "ggplot2", "gridExtra", "jsonlite", "plotly", "RCurl", "tidyr", "viridisLite"]
+    },
+    "gridExtra": {
+      "Package": "gridExtra",
+      "Version": "2.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "gtable"
+    },
+    "gtable": {
+      "Package": "gtable",
+      "Version": "0.3.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "lifecycle", "rlang"]
+    },
+    "gtools": {
+      "Package": "gtools",
+      "Version": "3.9.5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Gviz": {
+      "Package": "Gviz",
+      "Version": "1.54.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "Biobase", "BiocGenerics", "biomaRt", "Biostrings", "biovizBase", "BSgenome", "digest", "ensembldb", "GenomeInfoDb", "GenomicAlignments", "GenomicFeatures", "GenomicRanges", "IRanges", "latticeExtra", "matrixStats", "RColorBrewer", "Rsamtools", "rtracklayer", "S4Vectors", "Seqinfo", "XVector"]
+    },
+    "h5mread": {
+      "Package": "h5mread",
+      "Version": "1.2.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "rhdf5", "rhdf5filters", "Rhdf5lib", "S4Arrays", "S4Vectors", "SparseArray"]
+    },
+    "HDF5Array": {
+      "Package": "HDF5Array",
+      "Version": "1.38.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "DelayedArray", "h5mread", "IRanges", "rhdf5", "S4Arrays", "S4Vectors", "SparseArray"]
+    },
+    "highr": {
+      "Package": "highr",
+      "Version": "0.11",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "xfun"
+    },
+    "Hmisc": {
+      "Package": "Hmisc",
+      "Version": "5.2-4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["base64enc", "colorspace", "data.table", "Formula", "ggplot2", "gridExtra", "gtable", "htmlTable", "htmltools", "knitr", "rmarkdown", "viridisLite"]
+    },
+    "hms": {
+      "Package": "hms",
+      "Version": "1.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "lifecycle", "pkgconfig", "rlang", "vctrs"]
+    },
+    "htmlTable": {
+      "Package": "htmlTable",
+      "Version": "2.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["checkmate", "htmltools", "htmlwidgets", "knitr", "magrittr", "rstudioapi", "stringr"]
+    },
+    "htmltools": {
+      "Package": "htmltools",
+      "Version": "0.5.8.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["base64enc", "digest", "fastmap", "rlang"]
+    },
+    "htmlwidgets": {
+      "Package": "htmlwidgets",
+      "Version": "1.6.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["htmltools", "jsonlite", "knitr", "rmarkdown", "yaml"]
+    },
+    "httpuv": {
+      "Package": "httpuv",
+      "Version": "1.6.16",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["later", "promises", "R6", "Rcpp"]
+    },
+    "httr": {
+      "Package": "httr",
+      "Version": "1.4.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["curl", "jsonlite", "mime", "openssl", "R6"]
+    },
+    "httr2": {
+      "Package": "httr2",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "curl", "glue", "lifecycle", "magrittr", "openssl", "R6", "rappdirs", "rlang", "vctrs", "withr"]
+    },
+    "Illumina450ProbeVariants.db": {
+      "Package": "Illumina450ProbeVariants.db",
+      "Version": "1.46.0",
+      "Source": "Bioconductor"
+    },
+    "IlluminaHumanMethylation450kanno.ilmn12.hg19": {
+      "Package": "IlluminaHumanMethylation450kanno.ilmn12.hg19",
+      "Version": "0.6.1",
+      "Source": "Bioconductor",
+      "Requirements": "minfi"
+    },
+    "IlluminaHumanMethylation450kmanifest": {
+      "Package": "IlluminaHumanMethylation450kmanifest",
+      "Version": "0.4.0",
+      "Source": "Bioconductor",
+      "Requirements": "minfi"
+    },
+    "IlluminaHumanMethylationEPICanno.ilm10b4.hg19": {
+      "Package": "IlluminaHumanMethylationEPICanno.ilm10b4.hg19",
+      "Version": "0.6.0",
+      "Source": "Bioconductor",
+      "Requirements": "minfi"
+    },
+    "IlluminaHumanMethylationEPICmanifest": {
+      "Package": "IlluminaHumanMethylationEPICmanifest",
+      "Version": "0.3.0",
+      "Source": "Bioconductor",
+      "Requirements": "minfi"
+    },
+    "IlluminaHumanMethylationEPICv2manifest": {
+      "Package": "IlluminaHumanMethylationEPICv2manifest",
+      "Version": "1.0.0",
+      "Source": "Bioconductor",
+      "Requirements": "minfi"
+    },
+    "illuminaio": {
+      "Package": "illuminaio",
+      "Version": "0.52.0",
+      "Source": "Bioconductor",
+      "Requirements": "base64"
+    },
+    "impute": {
+      "Package": "impute",
+      "Version": "1.84.0",
+      "Source": "Bioconductor"
+    },
+    "interp": {
+      "Package": "interp",
+      "Version": "1.1-6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["deldir", "Rcpp", "RcppEigen"]
+    },
+    "IRanges": {
+      "Package": "IRanges",
+      "Version": "2.44.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "S4Vectors"]
+    },
+    "isoband": {
+      "Package": "isoband",
+      "Version": "0.2.7",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "isva": {
+      "Package": "isva",
+      "Version": "1.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fastICA", "JADE", "qvalue"]
+    },
+    "iterators": {
+      "Package": "iterators",
+      "Version": "1.0.14",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "JADE": {
+      "Package": "JADE",
+      "Version": "2.0-4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "clue"
+    },
+    "jpeg": {
+      "Package": "jpeg",
+      "Version": "0.1-11",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "jquerylib": {
+      "Package": "jquerylib",
+      "Version": "0.1.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "htmltools"
+    },
+    "jsonlite": {
+      "Package": "jsonlite",
+      "Version": "2.0.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "KEGGREST": {
+      "Package": "KEGGREST",
+      "Version": "1.50.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biostrings", "httr", "png"]
+    },
+    "knitr": {
+      "Package": "knitr",
+      "Version": "1.50",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["evaluate", "highr", "xfun", "yaml"]
+    },
+    "labeling": {
+      "Package": "labeling",
+      "Version": "0.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "lambda.r": {
+      "Package": "lambda.r",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "formatR"
+    },
+    "later": {
+      "Package": "later",
+      "Version": "1.4.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["Rcpp", "rlang"]
+    },
+    "latticeExtra": {
+      "Package": "latticeExtra",
+      "Version": "0.6-31",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["interp", "jpeg", "png", "RColorBrewer"]
+    },
+    "lazyeval": {
+      "Package": "lazyeval",
+      "Version": "0.2.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "lifecycle": {
+      "Package": "lifecycle",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "rlang"]
+    },
+    "limma": {
+      "Package": "limma",
+      "Version": "3.66.0",
+      "Source": "Bioconductor",
+      "Requirements": "statmod"
+    },
+    "locfit": {
+      "Package": "locfit",
+      "Version": "1.5-9.12",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "lumi": {
+      "Package": "lumi",
+      "Version": "2.62.0",
+      "Source": "Bioconductor",
+      "Requirements": ["affy", "annotate", "AnnotationDbi", "Biobase", "DBI", "GenomicFeatures", "GenomicRanges", "methylumi", "nleqslv", "preprocessCore", "RSQLite"]
+    },
+    "magrittr": {
+      "Package": "magrittr",
+      "Version": "2.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "marray": {
+      "Package": "marray",
+      "Version": "1.88.0",
+      "Source": "Bioconductor",
+      "Requirements": "limma"
+    },
+    "MatrixGenerics": {
+      "Package": "MatrixGenerics",
+      "Version": "1.22.0",
+      "Source": "Bioconductor",
+      "Requirements": "matrixStats"
+    },
+    "matrixStats": {
+      "Package": "matrixStats",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "mclust": {
+      "Package": "mclust",
+      "Version": "6.1.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "memoise": {
+      "Package": "memoise",
+      "Version": "2.0.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cachem", "rlang"]
+    },
+    "methylumi": {
+      "Package": "methylumi",
+      "Version": "2.56.0",
+      "Source": "Bioconductor",
+      "Requirements": ["annotate", "AnnotationDbi", "Biobase", "BiocGenerics", "genefilter", "GenomeInfoDb", "GenomicFeatures", "GenomicRanges", "ggplot2", "illuminaio", "IRanges", "matrixStats", "minfi", "reshape2", "S4Vectors", "scales", "SummarizedExperiment"]
+    },
+    "mime": {
+      "Package": "mime",
+      "Version": "0.13",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "minfi": {
+      "Package": "minfi",
+      "Version": "1.56.0",
+      "Source": "Bioconductor",
+      "Requirements": ["beanplot", "Biobase", "BiocGenerics", "BiocParallel", "Biostrings", "bumphunter", "data.table", "DelayedArray", "DelayedMatrixStats", "genefilter", "GenomicRanges", "GEOquery", "HDF5Array", "illuminaio", "IRanges", "limma", "mclust", "nor1mix", "preprocessCore", "quadprog", "RColorBrewer", "reshape", "S4Vectors", "Seqinfo", "siggenes", "SummarizedExperiment"]
+    },
+    "missMethyl": {
+      "Package": "missMethyl",
+      "Version": "1.44.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "BiasedUrn", "Biobase", "BiocGenerics", "GenomeInfoDb", "GenomicRanges", "GO.db", "IlluminaHumanMethylation450kanno.ilmn12.hg19", "IlluminaHumanMethylation450kmanifest", "IlluminaHumanMethylationEPICanno.ilm10b4.hg19", "IlluminaHumanMethylationEPICmanifest", "IlluminaHumanMethylationEPICv2manifest", "IRanges", "limma", "methylumi", "minfi", "org.Hs.eg.db", "ruv", "S4Vectors", "statmod", "stringr", "SummarizedExperiment"]
+    },
+    "multtest": {
+      "Package": "multtest",
+      "Version": "2.66.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "BiocGenerics"]
+    },
+    "nleqslv": {
+      "Package": "nleqslv",
+      "Version": "3.3.5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "nor1mix": {
+      "Package": "nor1mix",
+      "Version": "1.3-3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "officer": {
+      "Package": "officer",
+      "Version": "0.7.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "dplyr", "openssl", "R6", "ragg", "tidyr", "uuid", "xml2", "zip"]
+    },
+    "openssl": {
+      "Package": "openssl",
+      "Version": "2.3.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "askpass"
+    },
+    "org.Hs.eg.db": {
+      "Package": "org.Hs.eg.db",
+      "Version": "3.22.0",
+      "Source": "Bioconductor",
+      "Requirements": "AnnotationDbi"
+    },
+    "otel": {
+      "Package": "otel",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "patchwork": {
+      "Package": "patchwork",
+      "Version": "1.3.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "farver", "ggplot2", "gtable", "rlang"]
+    },
+    "permute": {
+      "Package": "permute",
+      "Version": "0.9-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "pillar": {
+      "Package": "pillar",
+      "Version": "1.11.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "lifecycle", "rlang", "utf8", "vctrs"]
+    },
+    "pkgconfig": {
+      "Package": "pkgconfig",
+      "Version": "2.0.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "plogr": {
+      "Package": "plogr",
+      "Version": "0.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "plotly": {
+      "Package": "plotly",
+      "Version": "4.11.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["base64enc", "crosstalk", "data.table", "digest", "dplyr", "ggplot2", "htmltools", "htmlwidgets", "httr", "jsonlite", "lazyeval", "magrittr", "promises", "purrr", "RColorBrewer", "rlang", "scales", "tibble", "tidyr", "vctrs", "viridisLite"]
+    },
+    "plyr": {
+      "Package": "plyr",
+      "Version": "1.8.9",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "Rcpp"
+    },
+    "png": {
+      "Package": "png",
+      "Version": "0.1-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "preprocessCore": {
+      "Package": "preprocessCore",
+      "Version": "1.72.0",
+      "Source": "Bioconductor"
+    },
+    "prettydoc": {
+      "Package": "prettydoc",
+      "Version": "0.4.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "rmarkdown"
+    },
+    "prettyunits": {
+      "Package": "prettyunits",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "progress": {
+      "Package": "progress",
+      "Version": "1.2.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["crayon", "hms", "prettyunits", "R6"]
+    },
+    "promises": {
+      "Package": "promises",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fastmap", "later", "lifecycle", "magrittr", "otel", "R6", "rlang"]
+    },
+    "ProtGenerics": {
+      "Package": "ProtGenerics",
+      "Version": "1.42.0",
+      "Source": "Bioconductor"
+    },
+    "purrr": {
+      "Package": "purrr",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "lifecycle", "magrittr", "rlang", "vctrs"]
+    },
+    "quadprog": {
+      "Package": "quadprog",
+      "Version": "1.5-8",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "qvalue": {
+      "Package": "qvalue",
+      "Version": "2.42.0",
+      "Source": "Bioconductor",
+      "Requirements": ["ggplot2", "reshape2"]
+    },
+    "R.methodsS3": {
+      "Package": "R.methodsS3",
+      "Version": "1.8.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "R.oo": {
+      "Package": "R.oo",
+      "Version": "1.27.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "R.methodsS3"
+    },
+    "R.utils": {
+      "Package": "R.utils",
+      "Version": "2.13.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["R.methodsS3", "R.oo"]
+    },
+    "R6": {
+      "Package": "R6",
+      "Version": "2.6.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "ragg": {
+      "Package": "ragg",
+      "Version": "1.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["systemfonts", "textshaping"]
+    },
+    "rappdirs": {
+      "Package": "rappdirs",
+      "Version": "0.3.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "RColorBrewer": {
+      "Package": "RColorBrewer",
+      "Version": "1.1-3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Rcpp": {
+      "Package": "Rcpp",
+      "Version": "1.1.1-1.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "RcppEigen": {
+      "Package": "RcppEigen",
+      "Version": "0.3.4.0.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "Rcpp"
+    },
+    "RCurl": {
+      "Package": "RCurl",
+      "Version": "1.98-1.17",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "bitops"
+    },
+    "readr": {
+      "Package": "readr",
+      "Version": "2.1.6",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "clipr", "cpp11", "crayon", "hms", "lifecycle", "R6", "rlang", "tibble", "tzdb", "vroom"]
+    },
+    "rentrez": {
+      "Package": "rentrez",
+      "Version": "1.2.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["httr", "jsonlite", "XML"]
+    },
+    "reshape": {
+      "Package": "reshape",
+      "Version": "0.8.10",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "plyr"
+    },
+    "reshape2": {
+      "Package": "reshape2",
+      "Version": "1.4.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["plyr", "Rcpp", "stringr"]
+    },
+    "restfulr": {
+      "Package": "restfulr",
+      "Version": "0.0.16",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["RCurl", "rjson", "S4Vectors", "XML", "yaml"]
+    },
+    "rhdf5": {
+      "Package": "rhdf5",
+      "Version": "2.54.0",
+      "Source": "Bioconductor",
+      "Requirements": ["rhdf5filters", "Rhdf5lib"]
+    },
+    "rhdf5filters": {
+      "Package": "rhdf5filters",
+      "Version": "1.22.0",
+      "Source": "Bioconductor",
+      "Requirements": "Rhdf5lib"
+    },
+    "Rhdf5lib": {
+      "Package": "Rhdf5lib",
+      "Version": "1.32.0",
+      "Source": "Bioconductor"
+    },
+    "Rhtslib": {
+      "Package": "Rhtslib",
+      "Version": "3.6.0",
+      "Source": "Bioconductor"
+    },
+    "rjson": {
+      "Package": "rjson",
+      "Version": "0.2.23",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "rlang": {
+      "Package": "rlang",
+      "Version": "1.3.0",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "rmarkdown": {
+      "Package": "rmarkdown",
+      "Version": "2.30",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["bslib", "evaluate", "fontawesome", "htmltools", "jquerylib", "jsonlite", "knitr", "tinytex", "xfun", "yaml"]
+    },
+    "rngtools": {
+      "Package": "rngtools",
+      "Version": "1.5.2",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "digest"
+    },
+    "ROC": {
+      "Package": "ROC",
+      "Version": "1.86.0",
+      "Source": "Bioconductor",
+      "Requirements": "knitr"
+    },
+    "RPMM": {
+      "Package": "RPMM",
+      "Version": "1.25",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "Rsamtools": {
+      "Package": "Rsamtools",
+      "Version": "2.26.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "BiocParallel", "Biostrings", "bitops", "GenomicRanges", "IRanges", "Rhtslib", "S4Vectors", "Seqinfo", "XVector"]
+    },
+    "RSQLite": {
+      "Package": "RSQLite",
+      "Version": "2.4.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["bit64", "blob", "cpp11", "DBI", "memoise", "pkgconfig", "plogr", "rlang"]
+    },
+    "rstudioapi": {
+      "Package": "rstudioapi",
+      "Version": "0.17.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "rtracklayer": {
+      "Package": "rtracklayer",
+      "Version": "1.70.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "BiocIO", "Biostrings", "curl", "GenomicAlignments", "GenomicRanges", "httr", "IRanges", "restfulr", "Rsamtools", "S4Vectors", "Seqinfo", "XML", "XVector"]
+    },
+    "ruv": {
+      "Package": "ruv",
+      "Version": "0.9.7.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["ggplot2", "gridExtra", "scales"]
+    },
+    "rvest": {
+      "Package": "rvest",
+      "Version": "1.0.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "httr", "lifecycle", "magrittr", "rlang", "selectr", "tibble", "xml2"]
+    },
+    "S4Arrays": {
+      "Package": "S4Arrays",
+      "Version": "1.10.0",
+      "Source": "Bioconductor",
+      "Requirements": ["abind", "BiocGenerics", "IRanges", "S4Vectors"]
+    },
+    "S4Vectors": {
+      "Package": "S4Vectors",
+      "Version": "0.48.0",
+      "Source": "Bioconductor",
+      "Requirements": "BiocGenerics"
+    },
+    "S7": {
+      "Package": "S7",
+      "Version": "0.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "sass": {
+      "Package": "sass",
+      "Version": "0.4.10",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["fs", "htmltools", "R6", "rappdirs", "rlang"]
+    },
+    "scales": {
+      "Package": "scales",
+      "Version": "1.4.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "farver", "glue", "labeling", "lifecycle", "R6", "RColorBrewer", "rlang", "viridisLite"]
+    },
+    "scrime": {
+      "Package": "scrime",
+      "Version": "1.3.5",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "selectr": {
+      "Package": "selectr",
+      "Version": "0.5-0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["R6", "stringr"]
+    },
+    "Seqinfo": {
+      "Package": "Seqinfo",
+      "Version": "1.0.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "S4Vectors"]
+    },
+    "shape": {
+      "Package": "shape",
+      "Version": "1.4.6.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "shiny": {
+      "Package": "shiny",
+      "Version": "1.11.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["bslib", "cachem", "cli", "commonmark", "fastmap", "fontawesome", "glue", "htmltools", "httpuv", "jsonlite", "later", "lifecycle", "mime", "promises", "R6", "rlang", "sourcetools", "withr", "xtable"]
+    },
+    "shinythemes": {
+      "Package": "shinythemes",
+      "Version": "1.2.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "shiny"
+    },
+    "siggenes": {
+      "Package": "siggenes",
+      "Version": "1.84.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "multtest", "scrime"]
+    },
+    "snow": {
+      "Package": "snow",
+      "Version": "0.4-4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "sourcetools": {
+      "Package": "sourcetools",
+      "Version": "0.1.7-1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "SparseArray": {
+      "Package": "SparseArray",
+      "Version": "1.10.2",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "MatrixGenerics", "matrixStats", "S4Arrays", "S4Vectors", "XVector"]
+    },
+    "sparseMatrixStats": {
+      "Package": "sparseMatrixStats",
+      "Version": "1.22.0",
+      "Source": "Bioconductor",
+      "Requirements": ["MatrixGenerics", "matrixStats", "Rcpp"]
+    },
+    "statmod": {
+      "Package": "statmod",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "stringi": {
+      "Package": "stringi",
+      "Version": "1.8.7",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "stringr": {
+      "Package": "stringr",
+      "Version": "1.6.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "lifecycle", "magrittr", "rlang", "stringi", "vctrs"]
+    },
+    "SummarizedExperiment": {
+      "Package": "SummarizedExperiment",
+      "Version": "1.40.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "BiocGenerics", "DelayedArray", "GenomicRanges", "IRanges", "MatrixGenerics", "S4Arrays", "S4Vectors", "Seqinfo"]
+    },
+    "sva": {
+      "Package": "sva",
+      "Version": "3.58.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocParallel", "edgeR", "genefilter", "limma", "matrixStats"]
+    },
+    "sys": {
+      "Package": "sys",
+      "Version": "3.4.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "systemfonts": {
+      "Package": "systemfonts",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["base64enc", "cpp11", "jsonlite", "lifecycle"]
+    },
+    "textshaping": {
+      "Package": "textshaping",
+      "Version": "1.0.4",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cpp11", "lifecycle", "stringi", "systemfonts"]
+    },
+    "tibble": {
+      "Package": "tibble",
+      "Version": "3.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "lifecycle", "magrittr", "pillar", "pkgconfig", "rlang", "vctrs"]
+    },
+    "tidyr": {
+      "Package": "tidyr",
+      "Version": "1.3.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "cpp11", "dplyr", "glue", "lifecycle", "magrittr", "purrr", "rlang", "stringr", "tibble", "tidyselect", "vctrs"]
+    },
+    "tidyselect": {
+      "Package": "tidyselect",
+      "Version": "1.2.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "lifecycle", "rlang", "vctrs", "withr"]
+    },
+    "tinytex": {
+      "Package": "tinytex",
+      "Version": "0.58",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "xfun"
+    },
+    "txdbmaker": {
+      "Package": "txdbmaker",
+      "Version": "1.6.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "Biobase", "BiocGenerics", "BiocIO", "biomaRt", "DBI", "GenomeInfoDb", "GenomicFeatures", "GenomicRanges", "httr", "IRanges", "rjson", "RSQLite", "rtracklayer", "S4Vectors", "Seqinfo", "UCSC.utils"]
+    },
+    "tzdb": {
+      "Package": "tzdb",
+      "Version": "0.5.0",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": "cpp11"
+    },
+    "UCSC.utils": {
+      "Package": "UCSC.utils",
+      "Version": "1.6.0",
+      "Source": "Bioconductor",
+      "Requirements": ["httr", "jsonlite", "S4Vectors"]
+    },
+    "utf8": {
+      "Package": "utf8",
+      "Version": "1.2.6",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "uuid": {
+      "Package": "uuid",
+      "Version": "1.2-1",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "VariantAnnotation": {
+      "Package": "VariantAnnotation",
+      "Version": "1.56.0",
+      "Source": "Bioconductor",
+      "Requirements": ["AnnotationDbi", "Biobase", "BiocGenerics", "Biostrings", "BSgenome", "curl", "DBI", "GenomicFeatures", "GenomicRanges", "IRanges", "MatrixGenerics", "Rhtslib", "Rsamtools", "rtracklayer", "S4Vectors", "Seqinfo", "SummarizedExperiment", "XVector"]
+    },
+    "vctrs": {
+      "Package": "vctrs",
+      "Version": "0.7.3",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "glue", "lifecycle", "rlang"]
+    },
+    "viridis": {
+      "Package": "viridis",
+      "Version": "0.6.5",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["ggplot2", "gridExtra", "viridisLite"]
+    },
+    "viridisLite": {
+      "Package": "viridisLite",
+      "Version": "0.4.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "vroom": {
+      "Package": "vroom",
+      "Version": "1.6.7",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["bit64", "cli", "cpp11", "crayon", "glue", "hms", "lifecycle", "progress", "rlang", "tibble", "tidyselect", "tzdb", "vctrs", "withr"]
+    },
+    "wateRmelon": {
+      "Package": "wateRmelon",
+      "Version": "2.16.0",
+      "Source": "Bioconductor",
+      "Requirements": ["Biobase", "IlluminaHumanMethylation450kanno.ilmn12.hg19", "illuminaio", "limma", "lumi", "matrixStats", "methylumi", "ROC"]
+    },
+    "withr": {
+      "Package": "withr",
+      "Version": "3.0.2",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "xfun": {
+      "Package": "xfun",
+      "Version": "0.60",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "XML": {
+      "Package": "XML",
+      "Version": "3.99-0.20",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "xml2": {
+      "Package": "xml2",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN",
+      "Requirements": ["cli", "rlang"]
+    },
+    "xtable": {
+      "Package": "xtable",
+      "Version": "1.8-4",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "XVector": {
+      "Package": "XVector",
+      "Version": "0.50.0",
+      "Source": "Bioconductor",
+      "Requirements": ["BiocGenerics", "IRanges", "S4Vectors"]
+    },
+    "yaml": {
+      "Package": "yaml",
+      "Version": "2.3.11",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    },
+    "zip": {
+      "Package": "zip",
+      "Version": "2.3.3",
+      "Source": "Repository",
+      "Repository": "CRAN"
+    }
+  }
+}

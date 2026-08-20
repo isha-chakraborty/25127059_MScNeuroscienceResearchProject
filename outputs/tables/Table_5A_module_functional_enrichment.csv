@@ -1,0 +1,10 @@
+Module,Metal enrichment,Module genes,GO BP terms,Reactome pathways,WikiPathways terms,Total significant,Strongest FDR-adjusted P,Representative terms
+AD ERC greenyellow,Copper,863,2,0,0,2,0.02036487980816718,cellular component organization [GO BP]
+AD ERC darkred,Broad iron,1823,70,0,0,70,3.6649958843876e-9,nervous system development [GO BP]; generation of neurons [GO BP]; cell morphogenesis involved in neuron differentiation [GO BP]
+AD HIPPO yellow,Core iron,2433,53,0,0,53,1.7270961100998502e-5,nucleic acid metabolic process [GO BP]; generation of neurons [GO BP]; cell morphogenesis involved in neuron differentiation [GO BP]
+FTLD1 red,Copper,1598,0,0,0,0,NA,No term reached FDR-adjusted P < 0.05
+FTLD2 darkmagenta,Broad and core iron,1063,11,0,3,14,0.01023292768074246,cell morphogenesis involved in neuron differentiation [GO BP]
+FTLD3 black,Broad and core iron,5371,144,51,6,201,8.836109118512803e-19,"nucleic acid metabolic process [GO BP]; Metabolism of RNA [Reactome]; Cell Cycle, Mitotic [Reactome]; Nucleotide Excision Repair [Reactome]; Cellular responses to stress [Reactome]; nervous system development [GO BP]; regulation of TORC1 signaling [GO BP]; generation of neurons [GO BP]; cell death [GO BP]"
+FTLD3 turquoise,Broad and core iron,5506,248,134,13,395,4.239668544809254e-22,"nucleic acid metabolic process [GO BP]; Metabolism of RNA [Reactome]; Cell Cycle, Mitotic [Reactome]; EGF EGFR signaling [WikiPathways]; Cellular responses to stress [Reactome]; cell death [GO BP]; Microtubule cytoskeleton regulation [WikiPathways]; Nucleotide Excision Repair [Reactome]; signal transduction by p53 class mediator [GO BP]; ATP biosynthetic process [GO BP]; signal transduction in response to DNA damage [GO BP]"
+MSA violet,Core iron,1461,18,0,0,18,0.01866534239541265,regulation of programmed cell death [GO BP]; cell death [GO BP]; nucleic acid metabolic process [GO BP]
+PSP pink,Core iron,1729,18,0,0,18,0.00224516482432571,nervous system development [GO BP]; generation of neurons [GO BP]

@@ -1,0 +1,137 @@
+No.,geneSymbol,Gene_set,GO_terms,GO_identifiers,Evidence_codes,Source_files
+1,ABCB6,Core iron,iron ion binding; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015439; GO:0015886; GO:0035351,IDA; IMP,iron_ion_binding_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+2,ABCB7,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron ion transmembrane transport; iron ion transport; iron-sulfur cluster assembly,GO:0006879; GO:0034755; GO:0140466; GO:1903331,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transport_3.txt; iron-sulfur_cluster_assembly_3.txt
+3,ABCC5,Core iron,iron ion binding; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015232; GO:0035351,IMP,iron_ion_binding_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+4,ACO1,Core iron,response to iron ion,GO:0010040,IDA,response_to_iron_ion_3.txt
+5,ACO2,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+6,ACP5,Core iron,ferric iron binding; ferrous iron binding; iron ion binding,GO:0008198; GO:0008199,IDA,ferric_iron_binding_3.txt; ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+7,ACVR2B,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; response to iron ion,GO:0006879; GO:0030509,IDA,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; response_to_iron_ion_3.txt
+8,ADO,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+9,AGMO,Core iron,iron ion binding,GO:0005506,IMP,iron_ion_binding_3.txt
+10,ALKBH1,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+11,ALKBH2,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+12,ALKBH3,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+13,ALOX15B,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+14,ALOX5,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+15,AOX1,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+16,ARHGAP1,Core iron,iron ion transport,GO:0033572,IMP,iron_ion_transport_3.txt
+17,ATP13A2,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion transport,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transport_3.txt
+18,ATP6AP1,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+19,ATP6V0A2,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+20,ATP6V0D1,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+21,ATP6V1A,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+22,ATP6V1G1,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+23,B2M,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron ion transport; response to iron ion,GO:0005515; GO:0006879; GO:0033572; GO:0034756; GO:0034757; GO:0048261; GO:0071281,IDA; IGI; IPI,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron_ion_transport_3.txt; response_to_iron_ion_3.txt
+24,BACH1,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0000122,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+25,BCL2,Core iron,response to iron ion,GO:0010039,IDA,response_to_iron_ion_3.txt
+26,BMP2,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; response to iron ion,GO:0005125; GO:0006879; GO:0030509,IDA,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; response_to_iron_ion_3.txt
+27,BMP6,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0005125; GO:0006879; GO:0030509; GO:0060586,IDA; IMP,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+28,BOLA2,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron-sulfur cluster assembly,GO:0006879; GO:0016226; GO:0044571,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron-sulfur_cluster_assembly_3.txt
+29,CDO1,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+30,CIAO1,Core iron,iron-sulfur cluster assembly,GO:0016226; GO:0097361,IDA; IMP,iron-sulfur_cluster_assembly_3.txt
+31,CIAO2A,Core iron,iron-sulfur cluster assembly,GO:0016226; GO:0097361,IDA,iron-sulfur_cluster_assembly_3.txt
+32,CIAO2B,Core iron,iron-sulfur cluster assembly,GO:0097361,IDA,iron-sulfur_cluster_assembly_3.txt
+33,CIAO3,Core iron,iron homeostasis; iron-sulfur cluster assembly,GO:0016226; GO:0032364; GO:0097361,IDA; IMP,iron_homeostasis_3.txt; iron-sulfur_cluster_assembly_3.txt
+34,CIAPIN1,Core iron,iron ion binding,GO:0005506,EXP,iron_ion_binding_3.txt
+35,CISD1,Core iron,iron ion binding,GO:0030170,IDA,iron_ion_binding_3.txt
+36,CISD3,Core iron,iron ion binding,GO:0046872,IDA,iron_ion_binding_3.txt
+37,CLTC,Core iron,iron ion transport,GO:0033572,IMP,iron_ion_transport_3.txt
+38,CP,Core iron,ferroxidase activity; intracellular iron ion homeostasis; iron homeostasis,GO:0004322; GO:0006879,IDA; IMP,ferroxidase_activity_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+39,CYBRD1,Core iron,intracellular iron ion homeostasis; iron homeostasis; multicellular organismal-level iron ion homeostasis,GO:0006879; GO:0060586,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+40,CYP2R1,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+41,CYP3A4,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+42,DELE1,Core iron,cellular response to iron ion; iron ion binding; response to iron ion,GO:0043539; GO:0140468; GO:1990641,IDA,cellular_response_to_iron_ion_3.txt; iron_ion_binding_3.txt; response_to_iron_ion_3.txt
+43,DNAJC24,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+44,DNM2,Core iron,iron ion transport,GO:0033572,IMP,iron_ion_transport_3.txt
+45,DOHH,Core iron,iron ion binding,GO:0005506,IDA; IMP,iron_ion_binding_3.txt
+46,EGLN1,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+47,EGLN2,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+48,EIF2AK1,Core iron,response to iron ion,GO:1990641,IDA,response_to_iron_ion_3.txt
+49,ETHE1,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+50,FBXL5,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion binding,GO:0005506; GO:0006879,IDA; IEP; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt
+51,FDX2,Core iron,iron-sulfur cluster assembly,GO:0044571; GO:0044572,IDA,iron-sulfur_cluster_assembly_3.txt
+52,FLVCR1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015232; GO:0015886; GO:0097037,IDA; IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+53,FLVCR2,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015232,IDA,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+54,FTH1,Core iron,ferrous iron binding; ferroxidase activity; iron ion binding,GO:0004322; GO:0008198,IMP,ferrous_iron_binding_3.txt; ferroxidase_activity_3.txt; iron_ion_binding_3.txt
+55,FTL,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+56,FTMT,Core iron,ferroxidase activity; intracellular iron ion homeostasis; iron homeostasis; iron ion binding,GO:0004322; GO:0005506; GO:0006879,IDA,ferroxidase_activity_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt
+57,FTO,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+58,FXN,Core iron,ferric iron binding; ferrous iron binding; ferroxidase activity; intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron-sulfur cluster assembly; response to iron ion,GO:0004322; GO:0006879; GO:0008198; GO:0008199; GO:0010039; GO:0016226; GO:0044571; GO:0044572; GO:0099128,IDA; IMP,ferric_iron_binding_3.txt; ferrous_iron_binding_3.txt; ferroxidase_activity_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron-sulfur_cluster_assembly_3.txt; response_to_iron_ion_3.txt
+59,GLRX3,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron-sulfur cluster assembly,GO:0006879; GO:0016226; GO:0044571,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron-sulfur_cluster_assembly_3.txt
+60,GLRX5,Core iron,iron-sulfur cluster assembly,GO:0044571,IGI,iron-sulfur_cluster_assembly_3.txt
+61,HAAO,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+62,HAMP,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0006879; GO:0010039; GO:0060586; GO:0097690; GO:1904039,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+63,HEPH,Core iron,ferroxidase activity,GO:0004322,IDA,ferroxidase_activity_3.txt
+64,HEPHL1,Core iron,ferroxidase activity; intracellular iron ion homeostasis; iron homeostasis,GO:0004322; GO:0006879,IDA; IMP,ferroxidase_activity_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+65,HFE,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; iron ion transport; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0006879; GO:0010039; GO:0033572; GO:0034756; GO:0060586; GO:0071281,IDA; IGI; IMP,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+66,HIF1A,Core iron,response to iron ion,GO:0010039,IEP,response_to_iron_ion_3.txt
+67,HIF1AN,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+68,HJV,Core iron,iron homeostasis; multicellular organismal-level iron ion homeostasis,GO:0060586,IDA; IGI,iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+69,HMOX1,Core iron,intracellular iron ion homeostasis; iron homeostasis; multicellular organismal-level iron ion homeostasis,GO:0006879; GO:0060586,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+70,HSCB,Core iron,iron-sulfur cluster assembly,GO:0016226,IMP,iron-sulfur_cluster_assembly_3.txt
+71,HSPA9,Core iron,iron-sulfur cluster assembly,GO:0016226,IMP,iron-sulfur_cluster_assembly_3.txt
+72,IBA57,Core iron,iron-sulfur cluster assembly,GO:0003723; GO:0005515; GO:0005739,HDA; IDA; IPI,iron-sulfur_cluster_assembly_3.txt
+73,IREB2,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion binding,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt
+74,ISCA1,Core iron,iron-sulfur cluster assembly,GO:0005515; GO:0005739; GO:0051604; GO:0120510,IDA; IPI,iron-sulfur_cluster_assembly_3.txt
+75,ISCA2,Core iron,iron-sulfur cluster assembly,GO:0005515; GO:0005739; GO:0042802; GO:0051604; GO:0120510,IDA; IPI,iron-sulfur_cluster_assembly_3.txt
+76,ISCU,Core iron,ferrous iron binding; intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron ion transmembrane transport; iron ion transport; iron-sulfur cluster assembly,GO:0005515; GO:0005737; GO:0005739; GO:0005829; GO:0006879; GO:0008198; GO:0008270; GO:0016226; GO:0042803; GO:0044571; GO:0044572; GO:0060090; GO:0099128; GO:0140132; GO:1902958; GO:1904439,IDA; IMP; IPI,ferrous_iron_binding_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transport_3.txt; iron-sulfur_cluster_assembly_3.txt
+77,JMJD6,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+78,KDM3A,Core iron,iron ion binding,GO:0005506,IMP,iron_ion_binding_3.txt
+79,KDM7A,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+80,LCN2,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+81,LMTK2,Core iron,iron ion transport,GO:0033572,IMP,iron_ion_transport_3.txt
+82,LTF,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+83,LYRM4,Core iron,iron-sulfur cluster assembly,GO:0044571; GO:0099128,IDA,iron-sulfur_cluster_assembly_3.txt
+84,MCOLN1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005381; GO:0034755,IDA; IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+85,MECR,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+86,MELTF,Core iron,iron ion binding; iron ion transport,GO:0005506; GO:0006826,IMP,iron_ion_binding_3.txt; iron_ion_transport_3.txt
+87,METTL17,Core iron,iron-sulfur cluster assembly,GO:0051539,IDA,iron-sulfur_cluster_assembly_3.txt
+88,MIOX,Core iron,ferric iron binding; iron ion binding,GO:0008199,IDA,ferric_iron_binding_3.txt; iron_ion_binding_3.txt
+89,MMS19,Core iron,iron-sulfur cluster assembly,GO:0097361,IDA,iron-sulfur_cluster_assembly_3.txt
+90,MYC,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+91,NDFIP1,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+92,NDUFAB1,Core iron,iron-sulfur cluster assembly,GO:0044571; GO:0099128,IDA,iron-sulfur_cluster_assembly_3.txt
+93,NDUFS1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+94,NDUFS2,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+95,NDUFS3,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+96,NDUFS4,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+97,NDUFS7,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+98,NDUFS8,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0008137,IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+99,NEO1,Core iron,iron homeostasis; multicellular organismal-level iron ion homeostasis,GO:0060586,IGI,iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+100,NFS1,Core iron,iron-sulfur cluster assembly,GO:0016226; GO:0044571; GO:0044572; GO:0099128,IDA,iron-sulfur_cluster_assembly_3.txt
+101,NFU1,Core iron,iron ion binding; iron-sulfur cluster assembly,GO:0005506; GO:0016226,IDA,iron_ion_binding_3.txt; iron-sulfur_cluster_assembly_3.txt
+102,NUBP1,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron-sulfur cluster assembly,GO:0006879; GO:0016226; GO:0051536,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron-sulfur_cluster_assembly_3.txt
+103,NUBPL,Core iron,iron-sulfur cluster assembly,GO:0032981,IMP,iron-sulfur_cluster_assembly_3.txt
+104,PHF2,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+105,PHF8,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+106,PHYH,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+107,PICALM,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion binding; multicellular organismal-level iron ion homeostasis,GO:0006879; GO:0060586,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+108,PLOD3,Core iron,iron ion binding,GO:0005506,EXP,iron_ion_binding_3.txt
+109,PPP1CA,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+110,REP15,Core iron,iron ion transport,GO:0033572,IDA,iron_ion_transport_3.txt
+111,SCD,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+112,SLC11A1,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005381; GO:0006826; GO:0006879,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+113,SLC11A2,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron import into cell; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0006826; GO:0010039; GO:0015093; GO:0033212; GO:0034755; GO:0060586,IDA; IEP; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_import_into_cell_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+114,SLC25A37,Core iron,iron import into cell; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005381; GO:0048250,IDA; IMP,iron_import_into_cell_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+115,SLC25A39,Core iron,cellular response to iron ion; iron ion transport; response to iron ion,GO:0071281,IDA,cellular_response_to_iron_ion_3.txt; iron_ion_transport_3.txt; response_to_iron_ion_3.txt
+116,SLC39A1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005385; GO:0071577,IDA; IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+117,SLC39A14,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron import into cell; iron ion transmembrane transport; iron ion transport,GO:0033212; GO:0034755,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_import_into_cell_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transport_3.txt
+118,SLC39A2,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005385; GO:0046873; GO:0070574; GO:0071577,IDA; IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+119,SLC39A8,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron import into cell; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0098711; GO:0140410,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_import_into_cell_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+120,SLC40A1,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0005381; GO:0006879; GO:0015093; GO:0034755,IDA; IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+121,SLC46A1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015232,IDA,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+122,SLC48A1,Core iron,iron ion transmembrane transport; iron ion transmembrane transporter activity; iron ion transport,GO:0015232; GO:0015886,IDA; IMP,iron_ion_transmembrane_transport_3.txt; iron_ion_transmembrane_transporter_activity_3.txt; iron_ion_transport_3.txt
+123,SMAD1,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; response to iron ion,GO:0006879; GO:0030509,IDA,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; response_to_iron_ion_3.txt
+124,SMAD5,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; response to iron ion,GO:0006879; GO:0030509,IDA,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; response_to_iron_ion_3.txt
+125,SMAD9,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; response to iron ion,GO:0006879; GO:0030509,IDA,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; response_to_iron_ion_3.txt
+126,SNCA,Core iron,ferrous iron binding; iron ion binding; response to iron ion,GO:0008198; GO:0010040,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt; response_to_iron_ion_3.txt
+127,TET1,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+128,TET2,Core iron,ferrous iron binding; iron ion binding,GO:0008198,IDA,ferrous_iron_binding_3.txt; iron_ion_binding_3.txt
+129,TF,Core iron,cellular response to iron ion; ferrous iron binding; intracellular iron ion homeostasis; iron homeostasis; iron ion binding; iron ion transport; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0006826; GO:0006879; GO:0008198; GO:0060586; GO:0071281,IDA; IGI; IMP,cellular_response_to_iron_ion_3.txt; ferrous_iron_binding_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_binding_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+130,TFAP2A,Core iron,cellular response to iron ion; response to iron ion,GO:0071281,IDA,cellular_response_to_iron_ion_3.txt; response_to_iron_ion_3.txt
+131,TFR2,Core iron,cellular response to iron ion; intracellular iron ion homeostasis; iron homeostasis; iron import into cell; iron ion transport; multicellular organismal-level iron ion homeostasis; response to iron ion,GO:0006879; GO:0010039; GO:0033572; GO:0060586; GO:0071281; GO:0140298,IDA; IGI; IMP,cellular_response_to_iron_ion_3.txt; intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_import_into_cell_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt; response_to_iron_ion_3.txt
+132,TFRC,Core iron,intracellular iron ion homeostasis; iron homeostasis; iron ion transport; multicellular organismal-level iron ion homeostasis,GO:0006826; GO:0033572; GO:0060586,IDA,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt; iron_ion_transport_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+133,TMPRSS6,Core iron,iron homeostasis; multicellular organismal-level iron ion homeostasis,GO:0060586,IMP,iron_homeostasis_3.txt; multicellular_organismal-level_iron_ion_homeostasis_3.txt
+134,TYW5,Core iron,iron ion binding,GO:0005506,IDA,iron_ion_binding_3.txt
+135,VMA12,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt
+136,VMA22,Core iron,intracellular iron ion homeostasis; iron homeostasis,GO:0006879,IMP,intracellular_iron_ion_homeostasis_3.txt; iron_homeostasis_3.txt

@@ -1,0 +1,3 @@
+No.,Disease group,Dataset/cohort,Module,Gene set,Overlap,Module size,Odds ratio,P-value,FDR
+1,Alzheimer's disease,ERC,Greenyellow,Copper,6,863,3.645405211666969,0.010696350767696199,0.26740876919240497
+2,Frontotemporal lobar degeneration,FTLD1,Red,Copper,7,1598,2.7239866009672893,0.027159687134088346,0.4481348377124577

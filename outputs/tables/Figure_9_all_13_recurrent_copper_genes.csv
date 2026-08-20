@@ -1,0 +1,14 @@
+gene_symbol,occurrences,retained_modules,copper,broad_iron,core_iron,status,recurrence_label
+DAXX,7,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE,FALSE,Recurrent,7/9
+COX17,4,AD_ERC_greenyellow; AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,4/9
+SNCA,4,AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE,TRUE,Recurrent,4/9
+TP53,4,FTLD1_red; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE,FALSE,Recurrent,4/9
+ARF1,3,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,3/9
+MT3,3,AD_ERC_darkred; FTLD3_black; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,3/9
+PARK7,3,FTLD1_red; FTLD3_turquoise; PSP_pink,TRUE,FALSE,FALSE,Recurrent,3/9
+SLC30A1,3,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,3/9
+ANG,2,AD_ERC_greenyellow; AD_HIPPO_yellow,TRUE,FALSE,FALSE,Recurrent,2/9
+GPC1,2,AD_ERC_darkred; MSA_violet,TRUE,FALSE,FALSE,Recurrent,2/9
+MUC2,2,AD_ERC_greenyellow; FTLD1_red,TRUE,FALSE,FALSE,Recurrent,2/9
+PRNP,2,FTLD3_black; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,2/9
+SUMF1,2,AD_ERC_darkred; FTLD3_turquoise,TRUE,FALSE,FALSE,Recurrent,2/9

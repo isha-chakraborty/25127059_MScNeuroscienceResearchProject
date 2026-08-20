@@ -1,0 +1,8 @@
+evidence_code,description
+EXP,Inferred from experiment
+IDA,Inferred from direct assay
+IMP,Inferred from mutant phenotype
+IGI,Inferred from genetic interaction
+IEP,Inferred from expression pattern
+IPI,Inferred from physical interaction
+HDA,Inferred from high-throughput direct assay

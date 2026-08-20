@@ -1,0 +1,10 @@
+network_id,disease_group,disease_or_comparison,dataset_or_network,disease_trait,modules_tested,bonferroni_threshold,source_study
+AD_DLPFC,Alzheimer's disease,AD,DLPFC,AD,16,0.003125,Fodder et al. (2026)
+AD_ERC,Alzheimer's disease,AD,ERC,AD,25,0.002,Fodder et al. (2026)
+AD_HIPPO,Alzheimer's disease,AD,HIPPO,AD,18,0.002777777777777778,Fodder et al. (2026)
+FTLD1,Frontotemporal lobar degeneration,FTLD,FTLD1,FTLD,33,0.0015151515151515152,Fodder et al. (2023)
+FTLD2,Frontotemporal lobar degeneration,FTLD,FTLD2,FTLD,49,0.0010204081632653062,Fodder et al. (2023)
+FTLD3,Frontotemporal lobar degeneration,FTLD,FTLD3,FTLD,14,0.0035714285714285718,Fodder et al. (2023)
+MSA,Movement disorders,MSA,Movement-disorder network,MSA,32,0.0015625,Murthy et al. (2024)
+PD,Movement disorders,PD,Movement-disorder network,PD,32,0.0015625,Murthy et al. (2024)
+PSP,Movement disorders,PSP,Movement-disorder network,PSP,32,0.0015625,Murthy et al. (2024)

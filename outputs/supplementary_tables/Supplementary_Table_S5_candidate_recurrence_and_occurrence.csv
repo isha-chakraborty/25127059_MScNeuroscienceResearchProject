@@ -1,0 +1,141 @@
+No.,Gene symbol,Occurrences,Status,Metal-set membership,Retained module(s)
+1,BCL2,7,Recurrent,Core iron (also broad iron),AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet; PSP_pink
+2,DAXX,7,Recurrent,Copper,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise; PSP_pink
+3,PXDN,6,Recurrent,Broad iron,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise
+4,KCNH7,5,Recurrent,Broad iron,AD_ERC_darkred; AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; MSA_violet
+5,LMTK2,5,Recurrent,Core iron (also broad iron),AD_ERC_greenyellow; FTLD1_red; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise
+6,NDUFS4,5,Recurrent,Core iron (also broad iron),AD_ERC_darkred; AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise
+7,STC2,5,Recurrent,Broad iron,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black
+8,ACO1,4,Recurrent,Core iron (also broad iron),FTLD1_red; FTLD3_black; FTLD3_turquoise; MSA_violet
+9,ALOX5,4,Recurrent,Core iron (also broad iron),AD_ERC_greenyellow; AD_ERC_darkred; FTLD3_black; PSP_pink
+10,ATP6V0D1,4,Recurrent,Core iron (also broad iron),AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black
+11,BMP6,4,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet
+12,COX17,4,Recurrent,Copper,AD_ERC_greenyellow; AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+13,CYB5B,4,Recurrent,Broad iron,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink
+14,CYP51A1,4,Recurrent,Broad iron,AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise
+15,DNAJC24,4,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_turquoise; MSA_violet
+16,FTH1,4,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink
+17,MYC,4,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet
+18,NFU1,4,Recurrent,Core iron (also broad iron),AD_ERC_darkred; FTLD3_black; FTLD3_turquoise; PSP_pink
+19,SLC39A1,4,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise
+20,SNCA,4,Recurrent,Copper; core iron (also broad iron),AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise; PSP_pink
+21,TP53,4,Recurrent,Copper,FTLD1_red; FTLD3_black; FTLD3_turquoise; PSP_pink
+22,ABCB6,3,Recurrent,Core iron (also broad iron),AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise
+23,ADO,3,Recurrent,Core iron (also broad iron),AD_ERC_darkred; FTLD3_turquoise; PSP_pink
+24,ARF1,3,Recurrent,Copper,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+25,ATP6V0A2,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+26,ATP6V1A,3,Recurrent,Core iron (also broad iron),FTLD3_turquoise; MSA_violet; PSP_pink
+27,B2M,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_turquoise; PSP_pink
+28,CAT,3,Recurrent,Broad iron,FTLD3_black; FTLD3_turquoise; PSP_pink
+29,CYP27A1,3,Recurrent,Broad iron,FTLD1_red; FTLD3_black; MSA_violet
+30,CYP2E1,3,Recurrent,Broad iron,AD_ERC_greenyellow; AD_ERC_darkred; FTLD3_black
+31,DNM2,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+32,DOHH,3,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise
+33,DUOX1,3,Recurrent,Broad iron,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+34,EIF2AK1,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+35,FBXL5,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD1_red; FTLD3_black
+36,FTO,3,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise; PSP_pink
+37,GLRX3,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_turquoise; MSA_violet
+38,MT3,3,Recurrent,Copper,AD_ERC_darkred; FTLD3_black; FTLD3_turquoise
+39,NDUFS8,3,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise
+40,NEO1,3,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black; MSA_violet
+41,NUBP1,3,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise; PSP_pink
+42,NUBPL,3,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise; MSA_violet
+43,PARK7,3,Recurrent,Copper,FTLD1_red; FTLD3_turquoise; PSP_pink
+44,SLC25A37,3,Recurrent,Core iron (also broad iron),AD_ERC_darkred; AD_HIPPO_yellow; FTLD3_black
+45,SLC30A1,3,Recurrent,Copper,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise
+46,SLC40A1,3,Recurrent,Core iron (also broad iron),AD_ERC_darkred; FTLD2_darkmagenta; FTLD3_turquoise
+47,SLC46A1,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black
+48,TET2,3,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD2_darkmagenta; MSA_violet
+49,ACO2,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_turquoise
+50,ANG,2,Recurrent,Copper,AD_ERC_greenyellow; AD_HIPPO_yellow
+51,ARHGAP1,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD2_darkmagenta
+52,CIAPIN1,2,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise
+53,CLTC,2,Recurrent,Core iron (also broad iron),FTLD3_turquoise; MSA_violet
+54,CPOX,2,Recurrent,Broad iron,FTLD1_red; FTLD3_black
+55,CYP46A1,2,Recurrent,Broad iron,AD_ERC_darkred; MSA_violet
+56,DGCR8,2,Recurrent,Broad iron,FTLD2_darkmagenta; FTLD3_turquoise
+57,EGLN1,2,Recurrent,Core iron (also broad iron),AD_ERC_darkred; FTLD3_turquoise
+58,FECH,2,Recurrent,Broad iron,FTLD3_black; FTLD3_turquoise
+59,GLRX5,2,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise
+60,GPC1,2,Recurrent,Copper,AD_ERC_darkred; MSA_violet
+61,HIF1A,2,Recurrent,Core iron (also broad iron),FTLD2_darkmagenta; FTLD3_black
+62,HMOX2,2,Recurrent,Broad iron,FTLD2_darkmagenta; FTLD3_turquoise
+63,IREB2,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black
+64,ISCU,2,Recurrent,Core iron (also broad iron),FTLD1_red; FTLD3_turquoise
+65,KDM3A,2,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise
+66,LYRM4,2,Recurrent,Core iron (also broad iron),FTLD3_black; PSP_pink
+67,MCOLN1,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_turquoise
+68,MECR,2,Recurrent,Core iron (also broad iron),FTLD3_black; MSA_violet
+69,MUC2,2,Recurrent,Copper,AD_ERC_greenyellow; FTLD1_red
+70,NDUFAB1,2,Recurrent,Core iron (also broad iron),FTLD1_red; FTLD3_turquoise
+71,NDUFS2,2,Recurrent,Core iron (also broad iron),AD_ERC_darkred; PSP_pink
+72,NDUFS3,2,Recurrent,Core iron (also broad iron),FTLD3_turquoise; PSP_pink
+73,NDUFS7,2,Recurrent,Core iron (also broad iron),FTLD1_red; FTLD3_turquoise
+74,NOX4,2,Recurrent,Broad iron,AD_ERC_darkred; PSP_pink
+75,NR1D1,2,Recurrent,Broad iron,FTLD3_black; FTLD3_turquoise
+76,PGRMC2,2,Recurrent,Broad iron,FTLD3_black; FTLD3_turquoise
+77,PICALM,2,Recurrent,Core iron (also broad iron),FTLD3_turquoise; MSA_violet
+78,PPOX,2,Recurrent,Broad iron,FTLD3_black; FTLD3_turquoise
+79,PRNP,2,Recurrent,Copper,FTLD3_black; FTLD3_turquoise
+80,SLC25A39,2,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise
+81,SLC39A14,2,Recurrent,Core iron (also broad iron),AD_ERC_darkred; FTLD3_turquoise
+82,SLC39A8,2,Recurrent,Core iron (also broad iron),FTLD3_turquoise; PSP_pink
+83,SLC48A1,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_black
+84,SMAD1,2,Recurrent,Core iron (also broad iron),FTLD3_black; FTLD3_turquoise
+85,STEAP4,2,Recurrent,Broad iron,AD_ERC_darkred; FTLD1_red
+86,SUMF1,2,Recurrent,Copper,AD_ERC_darkred; FTLD3_turquoise
+87,TBXAS1,2,Recurrent,Broad iron,AD_ERC_darkred; FTLD3_black
+88,TET1,2,Recurrent,Core iron (also broad iron),FTLD3_black; MSA_violet
+89,TFAP2A,2,Recurrent,Core iron (also broad iron),AD_HIPPO_yellow; FTLD3_turquoise
+90,ABCC5,1,Single module,Core iron (also broad iron),FTLD3_black
+91,ACP5,1,Single module,Core iron (also broad iron),AD_ERC_darkred
+92,ALKBH2,1,Single module,Core iron (also broad iron),FTLD3_turquoise
+93,ALKBH3,1,Single module,Core iron (also broad iron),FTLD3_black
+94,ANKRD9,1,Single module,Copper,FTLD3_black
+95,AOX1,1,Single module,Core iron (also broad iron),FTLD2_darkmagenta
+96,ATP13A2,1,Single module,Core iron (also broad iron),FTLD3_black
+97,ATP6V1G1,1,Single module,Core iron (also broad iron),FTLD3_black
+98,ATP7B,1,Single module,Copper,FTLD3_black
+99,BMP2,1,Single module,Core iron (also broad iron),FTLD3_black
+100,CBS,1,Single module,Broad iron,FTLD3_turquoise
+101,CCS,1,Single module,Copper,AD_ERC_darkred
+102,CDO1,1,Single module,Core iron (also broad iron),AD_HIPPO_yellow
+103,CISD3,1,Single module,Core iron (also broad iron),AD_ERC_darkred
+104,COMMD1,1,Single module,Copper,FTLD1_red
+105,COX10,1,Single module,Broad iron,FTLD3_turquoise
+106,COX15,1,Single module,Broad iron,FTLD3_turquoise
+107,COX19,1,Single module,Copper,FTLD1_red
+108,CP,1,Single module,Copper; core iron (also broad iron),PSP_pink
+109,CUTC,1,Single module,Copper,FTLD3_turquoise
+110,CYBRD1,1,Single module,Core iron (also broad iron),PSP_pink
+111,CYP17A1,1,Single module,Broad iron,FTLD1_red
+112,CYP19A1,1,Single module,Broad iron,PSP_pink
+113,CYP2R1,1,Single module,Core iron (also broad iron),FTLD3_turquoise
+114,EGLN2,1,Single module,Core iron (also broad iron),FTLD3_turquoise
+115,ETHE1,1,Single module,Core iron (also broad iron),FTLD2_darkmagenta
+116,FXN,1,Single module,Core iron (also broad iron),FTLD3_black
+117,HEBP1,1,Single module,Broad iron,AD_ERC_darkred
+118,HEPHL1,1,Single module,Copper; core iron (also broad iron),FTLD3_black
+119,HFE,1,Single module,Core iron (also broad iron),PSP_pink
+120,HMBS,1,Single module,Broad iron,FTLD3_black
+121,ISCA1,1,Single module,Core iron (also broad iron),MSA_violet
+122,LOXL2,1,Single module,Copper,AD_ERC_darkred
+123,MMS19,1,Single module,Core iron (also broad iron),FTLD3_turquoise
+124,NDFIP1,1,Single module,Core iron (also broad iron),FTLD3_black
+125,NOS3,1,Single module,Broad iron,AD_ERC_darkred
+126,PHYH,1,Single module,Core iron (also broad iron),FTLD3_black
+127,PLOD3,1,Single module,Core iron (also broad iron),FTLD1_red
+128,PPP1CA,1,Single module,Core iron (also broad iron),FTLD3_turquoise
+129,S100A13,1,Single module,Copper,FTLD1_red
+130,S100A5,1,Single module,Copper,AD_ERC_greenyellow
+131,SCD,1,Single module,Core iron (also broad iron),FTLD3_black
+132,SLC11A2,1,Single module,Copper; core iron (also broad iron),FTLD3_turquoise
+133,SMAD9,1,Single module,Core iron (also broad iron),FTLD3_black
+134,SNCB,1,Single module,Copper,PSP_pink
+135,SOD1,1,Single module,Copper,FTLD3_turquoise
+136,SRC,1,Single module,Broad iron,FTLD3_turquoise
+137,STEAP3,1,Single module,Broad iron,MSA_violet
+138,TFR2,1,Single module,Core iron (also broad iron),AD_ERC_darkred
+139,TFRC,1,Single module,Core iron (also broad iron),MSA_violet
+140,TMPRSS6,1,Single module,Core iron (also broad iron),PSP_pink

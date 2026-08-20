@@ -1,0 +1,10 @@
+module_order,module_id,metal_enrichment,annotated_records,unique_genes,spearman_rho,p_value,p_value_display
+1,AD_ERC_greenyellow,Copper,941,863,0.6585803783866069,4.380460959227834e-118,< 2.2 x 10^-16
+2,AD_ERC_darkred,Broad iron,2458,1823,0.6822095879741347,0,< 2.2 x 10^-16
+3,AD_HIPPO_yellow,Core iron,2863,2433,0.6433450391713442,0,< 2.2 x 10^-16
+4,FTLD1_red,Copper,1754,1598,0.4926781424933803,6.449964824050181e-108,< 2.2 x 10^-16
+5,FTLD2_darkmagenta,Broad and core iron,1123,1063,0.45400259998761916,3.401005269110039e-58,< 2.2 x 10^-16
+6,FTLD3_black,Broad and core iron,7537,5371,0.8229452563585062,0,< 2.2 x 10^-16
+7,FTLD3_turquoise,Broad and core iron,7953,5506,0.472023247933019,0,< 2.2 x 10^-16
+8,MSA_violet,Core iron,1575,1461,0.32461301749268,5.702048728113847e-40,< 2.2 x 10^-16
+9,PSP_pink,Core iron,2010,1729,0.32005218743106534,4.1913993558874e-49,< 2.2 x 10^-16

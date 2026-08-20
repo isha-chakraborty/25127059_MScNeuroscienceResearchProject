@@ -1,0 +1,4 @@
+Gene_set,Number_of_source_terms,Number_of_unique_genes,Human_taxon,Evidence_codes
+Copper,13,47,NCBITaxon:9606,EXP; IDA; IMP; IGI; IEP; IPI; HDA
+Broad iron,17,199,NCBITaxon:9606,EXP; IDA; IMP; IGI; IEP; IPI; HDA
+Core iron,14,136,NCBITaxon:9606,EXP; IDA; IMP; IGI; IEP; IPI; HDA

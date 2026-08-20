@@ -1,0 +1,3 @@
+UniProtKB	O00244	ATOX1		GO:0016531	PMID:12029094	IDA		F	Copper transport protein ATOX1	HAH1	protein	NCBITaxon:9606	20061212	UniProt		UniProtKB:O00244
+UniProtKB	Q14061	COX17		GO:0016531	PMID:19393246	IMP		F	Cytochrome c oxidase copper chaperone		protein	NCBITaxon:9606	20170117	CAFA		UniProtKB:Q14061
+UniProtKB	Q99497	PARK7		GO:0016532	PMID:24567322	IDA		F	Parkinson disease protein 7		protein	NCBITaxon:9606	20240613	ParkinsonsUK-UCL	UniProtKB:P00441	UniProtKB:Q99497

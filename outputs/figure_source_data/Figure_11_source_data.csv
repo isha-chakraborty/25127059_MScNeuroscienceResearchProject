@@ -1,0 +1,34 @@
+panel,term_order,term_name,source,query_name,module_order,module_label,module_hex,adjusted_p,minus_log10_fdr,intersection_size
+Copper,1,cellular component organization,GO:BP,AD_ERC_greenyellow,1,AD ERC greenyellow,#7CAE00,0.02036487980816718,1.6911181487404583,330
+Iron,1,nervous system development,GO:BP,AD_ERC_darkred,2,AD ERC darkred,#8B1A1A,3.6649958843876e-9,8.435926508714193,341
+Iron,1,nervous system development,GO:BP,FTLD3_black,6,FTLD3 black,#222222,0.01247500375374693,1.903959315024706,796
+Iron,1,nervous system development,GO:BP,PSP_pink,9,PSP pink,#D95F9D,0.00224516482432571,2.648751770621665,304
+Iron,2,generation of neurons,GO:BP,AD_ERC_darkred,2,AD ERC darkred,#8B1A1A,1.2375676804173558e-4,3.907431040937389,205
+Iron,2,generation of neurons,GO:BP,AD_HIPPO_yellow,3,AD HIPPO yellow,#E6B800,0.01261276790536481,1.8991895958919276,247
+Iron,2,generation of neurons,GO:BP,FTLD3_black,6,FTLD3 black,#222222,0.02200308758724549,1.6575163724497872,492
+Iron,2,generation of neurons,GO:BP,PSP_pink,9,PSP pink,#D95F9D,0.03258825774073207,1.4869388575100677,187
+Iron,3,cell morphogenesis involved in neuron differentiation,GO:BP,AD_ERC_darkred,2,AD ERC darkred,#8B1A1A,0.00473598195273988,2.324589961234549,90
+Iron,3,cell morphogenesis involved in neuron differentiation,GO:BP,AD_HIPPO_yellow,3,AD HIPPO yellow,#E6B800,0.01919841584517325,1.7167346055716404,111
+Iron,3,cell morphogenesis involved in neuron differentiation,GO:BP,FTLD2_darkmagenta,5,FTLD2 darkmagenta,#8B006B,0.01218142493358789,1.914301906727926,62
+Iron,4,nucleic acid metabolic process,GO:BP,AD_HIPPO_yellow,3,AD HIPPO yellow,#E6B800,2.0019165891179425e-4,3.6985540215822055,678
+Iron,4,nucleic acid metabolic process,GO:BP,FTLD3_black,6,FTLD3 black,#222222,8.836109118512803e-19,18.053738929596058,1588
+Iron,4,nucleic acid metabolic process,GO:BP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,8.182259445336393e-18,17.087126753890253,1636
+Iron,4,nucleic acid metabolic process,GO:BP,MSA_violet,8,MSA violet,#7452A3,0.03380751335483499,1.470986771736122,431
+Iron,5,signal transduction in response to DNA damage,GO:BP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.04603870818170107,1.3368768709117038,76
+Iron,6,Metabolism of RNA,REAC,FTLD3_black,6,FTLD3 black,#222222,1.534792328753266e-4,3.813950380172478,262
+Iron,6,Metabolism of RNA,REAC,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,7.059639898635181e-10,9.15121745107627,294
+Iron,7,"Cell Cycle, Mitotic",REAC,FTLD3_black,6,FTLD3 black,#222222,0.00116179911389177,2.9348689590975776,202
+Iron,7,"Cell Cycle, Mitotic",REAC,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,1.6933607063207027e-6,5.7712505220570325,222
+Iron,8,Nucleotide Excision Repair,REAC,FTLD3_black,6,FTLD3 black,#222222,0.00120516817783838,2.9189523442834893,57
+Iron,8,Nucleotide Excision Repair,REAC,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.01227894711470147,1.9108388711328925,53
+Iron,9,Cellular responses to stress,REAC,FTLD3_black,6,FTLD3 black,#222222,0.00326740816638289,2.4857966098357522,268
+Iron,9,Cellular responses to stress,REAC,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,9.436928955166317e-4,3.0251693144751832,279
+Iron,10,regulation of TORC1 signaling,GO:BP,FTLD3_black,6,FTLD3 black,#222222,0.01463261626430624,1.8346780164879288,42
+Iron,11,cell death,GO:BP,FTLD3_black,6,FTLD3 black,#222222,0.03645232294139825,1.4382747908443347,592
+Iron,11,cell death,GO:BP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.0026185017419008,2.581947132857529,626
+Iron,11,cell death,GO:BP,MSA_violet,8,MSA violet,#7452A3,0.03217318422604984,1.492505954224952,186
+Iron,12,signal transduction by p53 class mediator,GO:BP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.02144558365445852,1.6686621296785165,75
+Iron,13,ATP biosynthetic process,GO:BP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.0290315174728603,1.5371302630706458,33
+Iron,14,EGF EGFR signaling,WP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,4.308888105480188e-4,3.365634783656694,83
+Iron,15,Microtubule cytoskeleton regulation,WP,FTLD3_turquoise,7,FTLD3 turquoise,#109D92,0.00870079553306953,2.060441037056431,30
+Iron,16,regulation of programmed cell death,GO:BP,MSA_violet,8,MSA violet,#7452A3,0.01866534239541265,1.7289640390045151,149

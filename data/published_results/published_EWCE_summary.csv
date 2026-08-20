@@ -1,0 +1,10 @@
+module_id,published_EWCE_significant,significant_EWCE_cell_types,EWCE_source_study,source_significance_criterion,EWCE_reference_dataset,integration_type
+AD_ERC_greenyellow,FALSE,,Fodder et al. (2026),Significance as reported in the source study,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+AD_ERC_darkred,FALSE,,Fodder et al. (2026),Significance as reported in the source study,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+AD_HIPPO_yellow,FALSE,,Fodder et al. (2026),Significance as reported in the source study,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+FTLD1_red,TRUE,CA1 pyramidal neurons,Fodder et al. (2023),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+FTLD2_darkmagenta,FALSE,,Fodder et al. (2023),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+FTLD3_black,TRUE,Somatosensory and CA1 pyramidal neurons,Fodder et al. (2023),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+FTLD3_turquoise,TRUE,Somatosensory and CA1 pyramidal neurons; oligodendrocytes; interneurons,Fodder et al. (2023),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+MSA_violet,FALSE,,Murthy et al. (2024),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result
+PSP_pink,FALSE,,Murthy et al. (2024),Bonferroni-adjusted P < 0.05,Zeisel et al. (2015) mouse nervous-system single-cell reference with human-homologue mapping,Published EWCE result

@@ -1,0 +1,37 @@
+UniProtKB	P22309	UGT1A1		GO:0006789	PMID:18004206	IDA		P	UDP-glucuronosyltransferase 1A1	GNT1|UGT1	protein	NCBITaxon:9606	20240222	UniProt	GO:0042167	UniProtKB:P22309
+UniProtKB	P08397	HMBS		GO:0006782	PMID:18004775	IDA		P	Porphobilinogen deaminase	PBGD|UPS	protein	NCBITaxon:9606	20241127	UniProt	GO:0006785	UniProtKB:P08397
+UniProtKB	P36551	CPOX		GO:0006782	PMID:7987309	IDA		P	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	CPO|CPX	protein	NCBITaxon:9606	20241127	UniProt	GO:0006785	UniProtKB:P36551
+UniProtKB	P06132	UROD		GO:0006782	PMID:11069625	IDA		P	Uroporphyrinogen decarboxylase		protein	NCBITaxon:9606	20241127	UniProt	GO:0006785	UniProtKB:P06132
+UniProtKB	P13716	ALAD		GO:0006782	PMID:11032836	IDA		P	Delta-aminolevulinic acid dehydratase		protein	NCBITaxon:9606	20241127	UniProt	GO:0006785	UniProtKB:P13716
+UniProtKB	P10746	UROS		GO:0006782	PMID:18004775	IDA		P	Uroporphyrinogen-III synthase		protein	NCBITaxon:9606	20241127	UniProt	GO:0006785	UniProtKB:P10746
+UniProtKB	Q9NP58	ABCB6		GO:0042168	PMID:33007128	IDA		P	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20210205	UniProt		UniProtKB:Q9NP58
+UniProtKB	P09601	HMOX1		GO:0006788	PMID:17915953	IDA		P	Heme oxygenase 1	HO|HO1	protein	NCBITaxon:9606	20080528	BHF-UCL		UniProtKB:P09601
+UniProtKB	P09601	HMOX1		GO:0042167	PMID:17915953	IDA		P	Heme oxygenase 1	HO|HO1	protein	NCBITaxon:9606	20080528	BHF-UCL		UniProtKB:P09601
+UniProtKB	P09601	HMOX1		GO:0042167	PMID:7703255	IDA		P	Heme oxygenase 1	HO|HO1	protein	NCBITaxon:9606	20240222	UniProt		UniProtKB:P09601
+UniProtKB	P53701	HCCS		GO:0018063	PMID:23150584	IDA		P	Holocytochrome c-type synthase	CCHL	protein	NCBITaxon:9606	20200930	UniProt		UniProtKB:P53701
+UniProtKB	Q7KZN9	COX15		GO:0006784	PMID:12474143	IGI	UniProtKB:Q7KZN9-1	P	Heme A synthase COX15		protein	NCBITaxon:9606	20190327	HGNC-UCL		UniProtKB:Q7KZN9
+UniProtKB	P08397	HMBS		GO:0006783	PMID:18936296	IDA		P	Porphobilinogen deaminase	PBGD|UPS	protein	NCBITaxon:9606	20210503	UniProt		UniProtKB:P08397
+UniProtKB	P08397	HMBS		GO:0006785	PMID:18004775	IDA		P	Porphobilinogen deaminase	PBGD|UPS	protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P08397
+UniProtKB	P22309	UGT1A1		GO:0042167	PMID:18004206	IDA		P	UDP-glucuronosyltransferase 1A1	GNT1|UGT1	protein	NCBITaxon:9606	20240222	UniProt		UniProtKB:P22309
+UniProtKB	P22557	ALAS2		GO:0006785	PMID:2050125	IDA		P	5-aminolevulinate synthase, erythroid-specific, mitochondrial	ALASE|ASB	protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P22557
+UniProtKB	P36551	CPOX		GO:0006785	PMID:7987309	IDA		P	Oxygen-dependent coproporphyrinogen-III oxidase, mitochondrial	CPO|CPX	protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P36551
+UniProtKB	Q12887	COX10		GO:0006784	PMID:12928484	IMP		P	Protoheme IX farnesyltransferase, mitochondrial		protein	NCBITaxon:9606	20060829	HGNC-UCL		UniProtKB:Q12887
+UniProtKB	P30043	BLVRB		GO:0042167	PMID:10858451	IDA		P	Flavin reductase (NADPH)	FLR|SCAN	protein	NCBITaxon:9606	20231213	UniProt		UniProtKB:P30043
+UniProtKB	P30043	BLVRB		GO:0042167	PMID:7929092	IDA		P	Flavin reductase (NADPH)	FLR|SCAN	protein	NCBITaxon:9606	20100224	UniProt		UniProtKB:P30043
+UniProtKB	Q16595	FXN		GO:0006783	PMID:15123683	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20250207	BHF-UCL		UniProtKB:Q16595
+UniProtKB	P06132	UROD		GO:0006785	PMID:11069625	IDA		P	Uroporphyrinogen decarboxylase		protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P06132
+UniProtKB	P50336	PPOX		GO:0006783	PMID:7713909	IDA		P	Protoporphyrinogen oxidase		protein	NCBITaxon:9606	20060428	UniProt		UniProtKB:P50336
+UniProtKB	P50336	PPOX		GO:0006785	PMID:7713909	IDA		P	Protoporphyrinogen oxidase		protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P50336
+UniProtKB	P13716	ALAD		GO:0006783	PMID:11032836	IDA		P	Delta-aminolevulinic acid dehydratase		protein	NCBITaxon:9606	20100303	UniProt		UniProtKB:P13716
+UniProtKB	P13716	ALAD		GO:0006785	PMID:11032836	IDA		P	Delta-aminolevulinic acid dehydratase		protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P13716
+UniProtKB	Q92887	ABCC2		GO:0042167	PMID:10421658	IMP		P	ATP-binding cassette sub-family C member 2	CMOAT|CMOAT1|CMRP|MRP2	protein	NCBITaxon:9606	20240222	UniProt		UniProtKB:Q92887
+UniProtKB	P10746	UROS		GO:0006783	PMID:3805019	IDA		P	Uroporphyrinogen-III synthase		protein	NCBITaxon:9606	20090424	UniProt		UniProtKB:P10746
+UniProtKB	P10746	UROS		GO:0006785	PMID:18004775	IDA		P	Uroporphyrinogen-III synthase		protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P10746
+UniProtKB	Q9NP58	ABCB6	not	GO:0006785	PMID:22655043	IMP		P	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20210128	UniProt		UniProtKB:Q9NP58
+UniProtKB	O00264	PGRMC1		GO:0006783	PMID:27599036	IDA		P	Membrane-associated progesterone receptor component 1	HPR6.6|PGRMC	protein	NCBITaxon:9606	20191217	UniProt		UniProtKB:O00264
+UniProtKB	P22830	FECH		GO:0006783	PMID:15123683	IDA		P	Ferrochelatase, mitochondrial		protein	NCBITaxon:9606	20250207	BHF-UCL		UniProtKB:P22830
+UniProtKB	P22830	FECH		GO:0006783	PMID:27599036	IDA		P	Ferrochelatase, mitochondrial		protein	NCBITaxon:9606	20191217	UniProt		UniProtKB:P22830
+UniProtKB	P22830	FECH		GO:0006785	PMID:27599036	IDA		P	Ferrochelatase, mitochondrial		protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P22830
+UniProtKB	P53004	BLVRA		GO:0042167	PMID:10858451	IDA		P	Biliverdin reductase A	BLVR|BVR	protein	NCBITaxon:9606	20210121	UniProt		UniProtKB:P53004
+UniProtKB	O75027	ABCB7		GO:0070455	PMID:30765471	IMP		P	Iron-sulfur clusters transporter ABCB7, mitochondrial	ABC7	protein	NCBITaxon:9606	20210304	UniProt		UniProtKB:O75027
+UniProtKB	P22557	ALAS2		GO:0006782	PMID:32499479	IDA		P	5-aminolevulinate synthase, erythroid-specific, mitochondrial	ALASE|ASB	protein	NCBITaxon:9606	20241127	UniProt		UniProtKB:P22557

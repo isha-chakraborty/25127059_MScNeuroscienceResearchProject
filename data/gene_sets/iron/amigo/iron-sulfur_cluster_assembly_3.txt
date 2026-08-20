@@ -1,0 +1,173 @@
+UniProtKB	P38646	HSPA9		GO:0016226	PMID:26702583	IMP		P	Stress-70 protein, mitochondrial	GRP75|HSPA9B|mt-HSP70	protein	NCBITaxon:9606	20171107	UniProt		UniProtKB:P38646
+UniProtKB	O76071	CIAO1		GO:0016226	PMID:32222833	IDA		P	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20240823	ComplexPortal		UniProtKB:O76071
+UniProtKB	O76003	GLRX3		GO:0016226	PMID:27519415	IDA		P	Glutaredoxin-3	PICOT|TXNL2|HUSSY-22	protein	NCBITaxon:9606	20251229	ComplexPortal		UniProtKB:O76003
+ComplexPortal	CPX-6861	bola2-glrx3_human		GO:0016226	PMID:27519415	IDA		P	BOLA2-GLRX3 iron-sulfur cluster assembly complex	BOLA2-GRX3 complex|2xBOLA2:GLRX3|BOLA2-GLRX3 Fe-S cluster assembly complex	protein_complex	NCBITaxon:9606	20251229	ComplexPortal		
+UniProtKB	Q9H6Q4	CIAO3		GO:0016226	PMID:18270200	IMP		P	Cytosolic iron-sulfur assembly component 3	NARFL|PRN	protein	NCBITaxon:9606	20090714	UniProt		UniProtKB:Q9H6Q4
+UniProtKB	Q9H6Q4	CIAO3		GO:0016226	PMID:32222833	IDA		P	Cytosolic iron-sulfur assembly component 3	NARFL|PRN	protein	NCBITaxon:9606	20240823	ComplexPortal		UniProtKB:Q9H6Q4
+UniProtKB	Q9UMS0	NFU1		GO:0016226	PMID:12886008	IDA		P	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial	HIRIP5|CGI-33	protein	NCBITaxon:9606	20080630	UniProt		UniProtKB:Q9UMS0
+UniProtKB	Q9UMS0	NFU1		GO:0016226	PMID:28906594	IDA		P	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial	HIRIP5|CGI-33	protein	NCBITaxon:9606	20171018	UniProt		UniProtKB:Q9UMS0
+UniProtKB	Q9H5X1	CIAO2A		GO:0016226	PMID:32222833	IDA		P	Cytosolic iron-sulfur assembly component 2A	CIA2A|FAM96A	protein	NCBITaxon:9606	20240823	ComplexPortal		UniProtKB:Q9H5X1
+UniProtKB	Q16595	FXN		GO:0016226	PMID:12785837	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20250215	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q9H1K1	ISCU		GO:0016226	PMID:16517407	IMP		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20221212	GO_Central		UniProtKB:Q9H1K1-2
+UniProtKB	Q9H3K6	BOLA2		GO:0016226	PMID:27519415	IDA		P	BolA-like protein 2	BOLA2B|BOLA2A|My016	protein	NCBITaxon:9606	20251229	ComplexPortal		UniProtKB:Q9H3K6
+UniProtKB	Q8IWL3	HSCB		GO:0016226	PMID:20668094	IMP		P	Iron-sulfur cluster co-chaperone protein HscB	DNAJC20|HSC20	protein	NCBITaxon:9606	20110614	UniProt		UniProtKB:Q8IWL3
+ComplexPortal	CPX-2840	cia_human		GO:0016226	PMID:32222833	IDA		P	CIAO1-CIAO2A-CIAO3 cytosolic iron-sulfur protein assembly complex	CIAO3???CIAO1???CIA2A complex|CIAO1:CIAO2A:CIAO3	protein_complex	NCBITaxon:9606	20240823	ComplexPortal		
+UniProtKB	P53384	NUBP1		GO:0016226	PMID:18573874	IMP		P	Cytosolic Fe-S cluster assembly factor NUBP1	NBP|NBP1	protein	NCBITaxon:9606	20090714	UniProt		UniProtKB:P53384
+UniProtKB	Q9Y697	NFS1		GO:0016226	PMID:16847322	IDA		P	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20250119	HGNC-UCL		UniProtKB:Q9Y697
+UniProtKB	P53384	NUBP1		GO:0051536	PMID:18573874	IDA		F	Cytosolic Fe-S cluster assembly factor NUBP1	NBP|NBP1	protein	NCBITaxon:9606	20090714	UniProt		UniProtKB:P53384
+UniProtKB	Q9H1K1	ISCU		GO:0044572	PMID:16527810	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220823	UniProt		UniProtKB:Q9H1K1-2
+UniProtKB	Q9H1K1	ISCU		GO:0044572	PMID:23940031	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220902	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0044572	PMID:29576242	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1-1
+UniProtKB	Q9H1K1	ISCU		GO:0044572	PMID:29309586	IMP		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220613	UniProt	GO:0005737	UniProtKB:Q9H1K1-2
+UniProtKB	Q9H1K1	ISCU		GO:0044571	PMID:23940031	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0044571	PMID:24971490	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220704	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0044571	PMID:29576242	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1-1
+UniProtKB	Q9H1K1	ISCU		GO:0044571	PMID:38627381	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0140132	PMID:38627381	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q9H1K1
+UniProtKB	Q9BUE6	ISCA1		GO:0005515	PMID:25347204	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9BUE6
+UniProtKB	Q9BUE6	ISCA1		GO:0005515	PMID:33961781	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9BUE6
+UniProtKB	Q9BUE6	ISCA1		GO:0005515	PMID:40205054	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9BUE6
+UniProtKB	Q9BUE6	ISCA1		GO:0051604	PMID:25347204	IDA		P	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20250715	ComplexPortal		UniProtKB:Q9BUE6
+UniProtKB	Q9BUE6	ISCA1		GO:0005739	PMID:22323289	IDA		C	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20250715	ComplexPortal		UniProtKB:Q9BUE6
+UniProtKB	Q9BUE6	ISCA1		GO:0120510	PMID:25347204	IDA		C	Iron-sulfur cluster assembly 1 homolog, mitochondrial	HBLD2|GK004	protein	NCBITaxon:9606	20240513	FlyBase		UniProtKB:Q9BUE6
+UniProtKB	Q8TB37	NUBPL		GO:0032981	PMID:19752196	IMP		P	Iron-sulfur cluster transfer protein NUBPL	C14orf127	protein	NCBITaxon:9606	20100815	UniProt		UniProtKB:Q8TB37
+UniProtKB	Q9H7H0	METTL17		GO:0051539	PMID:36482135	IDA		F	Ribosome assembly protein METTL17, mitochondrial	METT11D1	protein	NCBITaxon:9606	20240221	UniProt		UniProtKB:Q9H7H0
+UniProtKB	Q9H7H0	METTL17		GO:0051539	PMID:38199006	IDA		F	Ribosome assembly protein METTL17, mitochondrial	METT11D1	protein	NCBITaxon:9606	20240221	UniProt		UniProtKB:Q9H7H0
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:25347204	IPI	UniProtKB:Q9BUE6	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:25416956	IPI	UniProtKB:Q9H4P4	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:31831856	IPI	UniProtKB:Q5T440	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:P51687	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:P55040	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:P60228	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:Q49AR9	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:Q96HA8	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:Q96NT3-2	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:Q9H4P4	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32296183	IPI	UniProtKB:Q9H5Z6-2	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:A0A6Q8PF08	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:G5E9A7	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:O60333-2	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:O76024	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:P02766	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:P06396	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:P22607	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:P28329-3	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:P28799	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:32814053	IPI	UniProtKB:Q7Z699	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:33961781	IPI	UniProtKB:Q5T440	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:33961781	IPI	UniProtKB:Q9BUE6	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:33961781	IPI	UniProtKB:Q9H4P4	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:39408793	IPI	UniProtKB:Q5T440	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:40205054	IPI	UniProtKB:Q5T440	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005515	PMID:40205054	IPI	UniProtKB:Q9BUE6	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0042802	PMID:25347204	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0042802	PMID:31831856	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0051604	PMID:25347204	IDA		P	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20250715	ComplexPortal		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0005739	PMID:22323289	IDA		C	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20250715	ComplexPortal		UniProtKB:Q86U28
+UniProtKB	Q86U28	ISCA2		GO:0120510	PMID:25347204	IDA		C	Iron-sulfur cluster assembly 2 homolog, mitochondrial	HBLD1	protein	NCBITaxon:9606	20240513	FlyBase		UniProtKB:Q86U28
+ComplexPortal	CPX-6861	bola2-glrx3_human		GO:0006879	PMID:27519415	IDA		P	BOLA2-GLRX3 iron-sulfur cluster assembly complex	BOLA2-GRX3 complex|2xBOLA2:GLRX3|BOLA2-GLRX3 Fe-S cluster assembly complex	protein_complex	NCBITaxon:9606	20251229	ComplexPortal		
+ComplexPortal	CPX-6861	bola2-glrx3_human		GO:0045454	PMID:27519415	IDA		P	BOLA2-GLRX3 iron-sulfur cluster assembly complex	BOLA2-GRX3 complex|2xBOLA2:GLRX3|BOLA2-GLRX3 Fe-S cluster assembly complex	protein_complex	NCBITaxon:9606	20251229	ComplexPortal		
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:11060020	IPI	UniProtKB:Q9Y697	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220613	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:15778465	IPI	UniProtKB:P31947	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:16527810	IPI	UniProtKB:Q9Y697	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20071022	HGNC-UCL		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:20668094	IPI	UniProtKB:Q8IWL3	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20110614	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:23940031	IPI	UniProtKB:P38646	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:23940031	IPI	UniProtKB:Q8IWL3	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:23940031	IPI	UniProtKB:Q9Y697	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220624	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:24606901	IPI	UniProtKB:P21912	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:P00492	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:P0C7W6	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:P37198	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q08379	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q13422	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q6A162	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q6RW13	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q7Z6G3-2	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q8IZU0	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q8N9N5	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q8TBB1	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:25416956	IPI	UniProtKB:Q9UJV3-2	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:26702583	IPI	UniProtKB:P38646	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20171102	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:26749241	IPI	UniProtKB:P21912	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:29097656	IPI	UniProtKB:Q9HD34|UniProtKB:Q9Y697	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220627	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:29309586	IPI	UniProtKB:Q8IWL3	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220823	UniProt	GO:0005737	UniProtKB:Q9H1K1-2
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:31101807	IPI	UniProtKB:Q16595	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20240620	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:31515488	IPI	UniProtKB:P00492	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:32296183	IPI	UniProtKB:A6NEM1	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:32296183	IPI	UniProtKB:O76011	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:32296183	IPI	UniProtKB:P37198	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:32296183	IPI	UniProtKB:Q8NA61-2	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:32296183	IPI	UniProtKB:Q9NRD5	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:35271311	IPI	UniProtKB:P62258	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:36931259	IPI	UniProtKB:P31947	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005515	PMID:36931259	IPI	UniProtKB:P62258	F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0008198	PMID:38627381	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0008270	PMID:30031876	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0042803	PMID:29097656	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0042803	PMID:34824239	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0060090	PMID:16527810	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20071022	HGNC-UCL		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0006879	PMID:16517407	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20221212	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0006879	PMID:23508953	IDA		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:1902958	PMID:20436681	IMP		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20190314	ARUK-UCL		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:1904439	PMID:20436681	IMP		P	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20190314	ARUK-UCL		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005737	GO_REF:0000054	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20100607	LIFEdb		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005737	PMID:11060020	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20050601	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005739	GO_REF:0000052	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005739	PMID:11060020	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20050601	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005739	PMID:26702583	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20171102	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005829	GO_REF:0000052	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0005829	PMID:16527810	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20071022	HGNC-UCL		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0099128	PMID:21298097	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q9H1K1	ISCU		GO:0099128	PMID:31101807	IDA		C	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220829	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q5T440	IBA57		GO:0003723	PMID:22681889	HDA		F	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20140203	UniProt		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005515	PMID:31831856	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005515	PMID:33961781	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005515	PMID:39408793	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005515	PMID:40205054	IPI	UniProtKB:Q86U28	F	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005739	GO_REF:0000052	IDA		C	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q5T440
+UniProtKB	Q5T440	IBA57		GO:0005739	PMID:22323289	IDA		C	Iron-sulfur cluster assembly factor IBA57, mitochondrial	C1orf69	protein	NCBITaxon:9606	20250715	ComplexPortal		UniProtKB:Q5T440
+UniProtKB	O75027	ABCB7		GO:1903331	PMID:17192393	IMP		P	Iron-sulfur clusters transporter ABCB7, mitochondrial	ABC7	protein	NCBITaxon:9606	20210302	UniProt		UniProtKB:O75027
+UniProtKB	Q9H6Q4	CIAO3		GO:0097361	PMID:22678361	IDA		C	Cytosolic iron-sulfur assembly component 3	NARFL|PRN	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q9H6Q4
+UniProtKB	Q9H6Q4	CIAO3		GO:0097361	PMID:22678362	IDA		C	Cytosolic iron-sulfur assembly component 3	NARFL|PRN	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q9H6Q4
+UniProtKB	Q9H6Q4	CIAO3		GO:0097361	PMID:23585563	IDA		C	Cytosolic iron-sulfur assembly component 3	NARFL|PRN	protein	NCBITaxon:9606	20180724	UniProt		UniProtKB:Q9H6Q4
+UniProtKB	Q9H5X1	CIAO2A		GO:0097361	PMID:23891004	IDA		C	Cytosolic iron-sulfur assembly component 2A	CIA2A|FAM96A	protein	NCBITaxon:9606	20180703	UniProt		UniProtKB:Q9H5X1
+UniProtKB	Q9Y3D0	CIAO2B		GO:0097361	PMID:22678361	IDA		C	Cytosolic iron-sulfur assembly component 2B	CIAB|FAM96B|MIP18|CGI-128|HSPC118	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q9Y3D0
+UniProtKB	Q9Y3D0	CIAO2B		GO:0097361	PMID:22678362	IDA		C	Cytosolic iron-sulfur assembly component 2B	CIAB|FAM96B|MIP18|CGI-128|HSPC118	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q9Y3D0
+UniProtKB	Q9Y3D0	CIAO2B		GO:0097361	PMID:23585563	IDA		C	Cytosolic iron-sulfur assembly component 2B	CIAB|FAM96B|MIP18|CGI-128|HSPC118	protein	NCBITaxon:9606	20180724	UniProt		UniProtKB:Q9Y3D0
+UniProtKB	Q9Y3D0	CIAO2B		GO:0097361	PMID:23891004	IDA		C	Cytosolic iron-sulfur assembly component 2B	CIAB|FAM96B|MIP18|CGI-128|HSPC118	protein	NCBITaxon:9606	20180703	UniProt		UniProtKB:Q9Y3D0
+UniProtKB	Q6P4F2	FDX2		GO:0044572	PMID:28001042	IDA		P	Ferredoxin-2, mitochondrial	FDX1L	protein	NCBITaxon:9606	20220906	UniProt		UniProtKB:Q6P4F2
+UniProtKB	Q6P4F2	FDX2		GO:0044571	PMID:28001042	IDA		P	Ferredoxin-2, mitochondrial	FDX1L	protein	NCBITaxon:9606	20220824	UniProt		UniProtKB:Q6P4F2
+UniProtKB	Q6P4F2	FDX2		GO:0044571	PMID:38627381	IDA		P	Ferredoxin-2, mitochondrial	FDX1L	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q6P4F2
+UniProtKB	Q86SX6	GLRX5		GO:0044571	PMID:23615440	IGI	UniProtKB:Q02784	P	Glutaredoxin-related protein 5, mitochondrial	C14orf87	protein	NCBITaxon:9606	20200910	UniProt		UniProtKB:Q86SX6
+UniProtKB	Q9HD34	LYRM4		GO:0044571	PMID:17331979	IDA		P	LYR motif-containing protein 4	C6orf149|ISD11|CGI-203	protein	NCBITaxon:9606	20220829	UniProt		UniProtKB:Q9HD34
+UniProtKB	Q9HD34	LYRM4		GO:0044571	PMID:31664822	IDA		P	LYR motif-containing protein 4	C6orf149|ISD11|CGI-203	protein	NCBITaxon:9606	20220906	UniProt		UniProtKB:Q9HD34
+UniProtKB	O76003	GLRX3		GO:0044571	PMID:27519415	IDA		P	Glutaredoxin-3	PICOT|TXNL2|HUSSY-22	protein	NCBITaxon:9606	20170207	UniProt		UniProtKB:O76003
+UniProtKB	O14561	NDUFAB1		GO:0044571	PMID:31664822	IDA		P	Acyl carrier protein, mitochondrial		protein	NCBITaxon:9606	20220906	UniProt		UniProtKB:O14561
+UniProtKB	O14561	NDUFAB1		GO:0044571	PMID:38627381	IDA		P	Acyl carrier protein, mitochondrial		protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:O14561
+UniProtKB	Q16595	FXN		GO:0044572	PMID:29576242	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0044571	PMID:24971490	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220704	UniProt		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0044571	PMID:29491838	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0044571	PMID:29576242	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0044571	PMID:38627381	IDA		P	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q16595
+UniProtKB	Q9H3K6	BOLA2		GO:0044571	PMID:27519415	IDA		P	BolA-like protein 2	BOLA2B|BOLA2A|My016	protein	NCBITaxon:9606	20170207	UniProt		UniProtKB:Q9H3K6
+UniProtKB	Q9Y697	NFS1		GO:0044572	PMID:16527810	IDA		P	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20220823	UniProt		UniProtKB:Q9Y697-2
+UniProtKB	Q9Y697	NFS1		GO:0044571	PMID:24971490	IDA		P	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20220704	UniProt		UniProtKB:Q9Y697
+UniProtKB	Q9Y697	NFS1		GO:0044571	PMID:31664822	IDA		P	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20220906	UniProt		UniProtKB:Q9Y697
+UniProtKB	Q9Y697	NFS1		GO:0044571	PMID:38627381	IDA		P	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q9Y697
+UniProtKB	O76071	CIAO1		GO:0097361	PMID:22678361	IDA		C	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:O76071
+UniProtKB	O76071	CIAO1		GO:0097361	PMID:22678362	IDA		C	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:O76071
+UniProtKB	O76071	CIAO1		GO:0097361	PMID:23585563	IDA		C	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20180724	UniProt		UniProtKB:O76071
+UniProtKB	O76071	CIAO1		GO:0097361	PMID:23891004	IDA		C	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20180703	UniProt		UniProtKB:O76071
+UniProtKB	O76071	CIAO1		GO:0097361	PMID:38950322	IMP		C	Probable cytosolic iron-sulfur protein assembly protein CIAO1	CIA1|WDR39	protein	NCBITaxon:9606	20241022	UniProt		UniProtKB:O76071
+UniProtKB	P53384	NUBP1		GO:0006879	PMID:18573874	IMP		P	Cytosolic Fe-S cluster assembly factor NUBP1	NBP|NBP1	protein	NCBITaxon:9606	20090714	UniProt		UniProtKB:P53384
+UniProtKB	Q96T76	MMS19		GO:0097361	PMID:22678361	IDA		C	MMS19 nucleotide excision repair protein homolog	MMS19L	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q96T76
+UniProtKB	Q96T76	MMS19		GO:0097361	PMID:22678362	IDA		C	MMS19 nucleotide excision repair protein homolog	MMS19L	protein	NCBITaxon:9606	20120726	UniProt		UniProtKB:Q96T76
+UniProtKB	Q96T76	MMS19		GO:0097361	PMID:23585563	IDA		C	MMS19 nucleotide excision repair protein homolog	MMS19L	protein	NCBITaxon:9606	20180724	UniProt		UniProtKB:Q96T76
+UniProtKB	Q9HD34	LYRM4		GO:0099128	PMID:21298097	IDA		C	LYR motif-containing protein 4	C6orf149|ISD11|CGI-203	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9HD34
+UniProtKB	Q9HD34	LYRM4		GO:0099128	PMID:31101807	IDA		C	LYR motif-containing protein 4	C6orf149|ISD11|CGI-203	protein	NCBITaxon:9606	20220829	UniProt		UniProtKB:Q9HD34
+UniProtKB	O14561	NDUFAB1		GO:0099128	PMID:31101807	IDA		C	Acyl carrier protein, mitochondrial		protein	NCBITaxon:9606	20240513	FlyBase		UniProtKB:O14561
+UniProtKB	Q16595	FXN		GO:0099128	PMID:21298097	IDA		C	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0099128	PMID:29491838	IDA		C	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20240419	FlyBase		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0099128	PMID:31101807	IDA		C	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220829	UniProt		UniProtKB:Q16595
+UniProtKB	Q9Y697	NFS1		GO:0099128	PMID:21298097	IDA		C	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20220623	UniProt		UniProtKB:Q9Y697
+UniProtKB	Q9Y697	NFS1		GO:0099128	PMID:31101807	IDA		C	Cysteine desulfurase	NIFS|HUSSY-08	protein	NCBITaxon:9606	20220829	UniProt		UniProtKB:Q9Y697

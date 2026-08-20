@@ -1,0 +1,40 @@
+UniProtKB	P00450	CP		GO:0006878	PMID:14623105	IDA		P	Ceruloplasmin		protein	NCBITaxon:9606	20231106	UniProt	CHEBI:49552	UniProtKB:P00450
+UniProtKB	Q04656	ATP7A		GO:0006878	PMID:16397091	IMP		P	Copper-transporting ATPase 1	MC1|MNK	protein	NCBITaxon:9606	20061130	UniProt		UniProtKB:Q04656
+UniProtKB	Q04656	ATP7A		GO:0006878	PMID:28389643	IMP		P	Copper-transporting ATPase 1	MC1|MNK	protein	NCBITaxon:9606	20210118	UniProt		UniProtKB:Q04656
+UniProtKB	Q49B96	COX19		GO:0006878	PMID:23345593	IMP		P	Cytochrome c oxidase assembly protein COX19		protein	NCBITaxon:9606	20180114	UniProt		UniProtKB:Q49B96
+UniProtKB	P84077	ARF1		GO:0006878	PMID:21034850	IMP		P	ADP-ribosylation factor 1		protein	NCBITaxon:9606	20101213	UniProt		UniProtKB:P84077
+UniProtKB	Q6XR72	SLC30A10	not	GO:0006878	PMID:25319704	IDA		P	Calcium/manganese antiporter SLC30A10	ZNT10|ZNT8	protein	NCBITaxon:9606	20230111	UniProt		UniProtKB:Q6XR72
+UniProtKB	Q9NTM9	CUTC		GO:0005507	PMID:19878721	IDA		F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20100916	UniProt		UniProtKB:Q9NTM9
+UniProtKB	P00450	CP		GO:0006878	PMID:14623105	IDA		P	Ceruloplasmin		protein	NCBITaxon:9606	20231106	UniProt		UniProtKB:P00450
+UniProtKB	Q8N668	COMMD1		GO:0055070	PMID:14685266	IDA		P	COMM domain-containing protein 1	C2orf5|MURR1	protein	NCBITaxon:9606	20101213	UniProt		UniProtKB:Q8N668
+UniProtKB	Q96BM1	ANKRD9		GO:0006878	PMID:24522796	IMP		P	Ankyrin repeat domain-containing protein 9		protein	NCBITaxon:9606	20210222	UniProt		UniProtKB:Q96BM1
+UniProtKB	O60826	CCDC22		GO:0006878	PMID:25355947	IMP		P	Coiled-coil domain-containing protein 22	CXorf37|JM1	protein	NCBITaxon:9606	20141127	UniProt		UniProtKB:O60826
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:25416956	IPI	UniProtKB:O00560	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:25416956	IPI	UniProtKB:P41182	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:25416956	IPI	UniProtKB:Q8TAP6	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:25416956	IPI	UniProtKB:Q9NZD8	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:29748336	IPI	UniProtKB:Q9UIA9	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:31515488	IPI	UniProtKB:Q6IA69	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:31515488	IPI	UniProtKB:Q9NZD8	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:O00560	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:P54253	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q14696	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q16543	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q63ZY3	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q6FHY5	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q6IA69	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q96HA8	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q9NRD5	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:32296183	IPI	UniProtKB:Q9NZD8	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005515	PMID:35271311	IPI	UniProtKB:Q9UIA9	F	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0051262	PMID:19878721	IPI	UniProtKB:Q9NTM9	P	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20100916	UniProt		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005634	PMID:16182249	IDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20081106	UniProt		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005634	PMID:21630459	HDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20140320	UniProt	CL:0000019	UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005654	GO_REF:0000052	IDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005730	GO_REF:0000052	IDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005737	PMID:16182249	IDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20081106	UniProt		UniProtKB:Q9NTM9
+UniProtKB	Q9NTM9	CUTC		GO:0005829	GO_REF:0000052	IDA		C	Copper homeostasis protein cutC homolog	CGI-32	protein	NCBITaxon:9606	20251115	HPA		UniProtKB:Q9NTM9
+UniProtKB	Q6MZM0	HEPHL1		GO:0006879	PMID:31125343	IMP		P	Ferroxidase HEPHL1		protein	NCBITaxon:9606	20191029	UniProt		UniProtKB:Q6MZM0
+UniProtKB	P00450	CP		GO:0006879	PMID:14623105	IDA		P	Ceruloplasmin		protein	NCBITaxon:9606	20231106	UniProt		UniProtKB:P00450
+UniProtKB	P00450	CP		GO:0006879	PMID:16150804	IMP		P	Ceruloplasmin		protein	NCBITaxon:9606	20231026	UniProt		UniProtKB:P00450
+UniProtKB	P00450	CP		GO:0006879	PMID:29183916	IMP		P	Ceruloplasmin		protein	NCBITaxon:9606	20231026	UniProt		UniProtKB:P00450

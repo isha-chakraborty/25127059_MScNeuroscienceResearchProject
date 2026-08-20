@@ -1,0 +1,26 @@
+gene_symbol,occurrences,recurrence_label,retained_modules,broad_iron,core_iron
+BCL2,7,7/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet; PSP_pink,TRUE,TRUE
+PXDN,6,6/9,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+KCNH7,5,5/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,FALSE
+LMTK2,5,5/9,AD_ERC_greenyellow; FTLD1_red; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+NDUFS4,5,5/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+STC2,5,5/9,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black,TRUE,FALSE
+ACO1,4,4/9,FTLD1_red; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+ALOX5,4,4/9,AD_ERC_greenyellow; AD_ERC_darkred; FTLD3_black; PSP_pink,TRUE,TRUE
+ATP6V0D1,4,4/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black,TRUE,TRUE
+BMP6,4,4/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+CYB5B,4,4/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE
+CYP51A1,4,4/9,AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+DNAJC24,4,4/9,AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+FTH1,4,4/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+MYC,4,4/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+NFU1,4,4/9,AD_ERC_darkred; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+SLC39A1,4,4/9,AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+SNCA,4,4/9,AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+ABCB6,3,3/9,AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+ADO,3,3/9,AD_ERC_darkred; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+ATP6V0A2,3,3/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+ATP6V1A,3,3/9,FTLD3_turquoise; MSA_violet; PSP_pink,TRUE,TRUE
+B2M,3,3/9,AD_HIPPO_yellow; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+CAT,3,3/9,FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE
+CYP27A1,3,3/9,FTLD1_red; FTLD3_black; MSA_violet,TRUE,FALSE

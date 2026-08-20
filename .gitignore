@@ -1,0 +1,129 @@
+# -----------------------------------------------------------------------------
+# Operating-system and editor files
+# -----------------------------------------------------------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# -----------------------------------------------------------------------------
+# R and RStudio session files
+# Keep renv.lock under version control.
+# -----------------------------------------------------------------------------
+.Rhistory
+.Rapp.history
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+.Rproj.user.shared/
+.Rbuildignore.user
+Rplots.pdf
+.Rcheck/
+*.Rcheck/
+*.Rout
+*.Rout.fail
+
+# Local renv library/cache and activation artefacts
+renv/library/
+renv/staging/
+renv/local/
+renv/cellar/
+renv/python/
+renv/sandbox/
+renv/.gitignore
+.renv/
+
+# -----------------------------------------------------------------------------
+# Credentials and local configuration
+# Commit a redacted .Renviron.example instead, if one is needed.
+# -----------------------------------------------------------------------------
+.Renviron
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials/
+secrets/
+
+# -----------------------------------------------------------------------------
+# Raw, donor-level and large source data
+# Public data should be downloaded from the accessions documented in README.md.
+# -----------------------------------------------------------------------------
+data/raw/
+data_raw/
+GSE125895_RAW/
+FTLDexp/raw/
+CHAMP_CNA/
+CHAMP_Normalization_BMIQ/
+CHAMP_QCimages_post_norm/
+CHAMP_SVDimages/
+
+*.idat
+*.IDAT
+*.RData
+*.rda
+*.rda.gz
+
+# Large processed methylation objects and local caches
+data_processed/
+cache/
+.cache/
+tmp/
+temp/
+
+# -----------------------------------------------------------------------------
+# Generated logs, transient reports and validation/build artefacts
+# -----------------------------------------------------------------------------
+logs/
+outputs/logs/
+outputs/validation/
+outputs/tmp/
+outputs/cache/
+outputs/figures/*.tiff
+*.log
+*.tmp
+*.bak
+*.inspect.ndjson
+*.layout.json
+
+# Rendering and document-inspection working directories
+work/
+qa_*/
+**/rendered/
+**/rendered_*/
+**/tmp/
+
+# Python, Node and notebook caches used only for local figure/document builds
+__pycache__/
+*.py[cod]
+.pytest_cache/
+node_modules/
+.ipynb_checkpoints/
+
+# -----------------------------------------------------------------------------
+# Thesis drafts and office lock files
+# The submitted thesis may be released separately if permitted.
+# -----------------------------------------------------------------------------
+~$*
+*.docx
+*.pptx
+
+# Do not ignore the reproducibility files or clean R scripts.
+!README.md
+!renv.lock
+!run_all.R
+!R/
+!R/*.R
+
+# Keep the compact final validation evidence, but not transient validation files.
+!outputs/validation/
+outputs/validation/*
+!outputs/validation/final_validation_report.csv
+!outputs/validation/final_validation_summary.csv
+!outputs/validation/sessionInfo.txt

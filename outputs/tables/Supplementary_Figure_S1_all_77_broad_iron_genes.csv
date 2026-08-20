@@ -1,0 +1,78 @@
+gene_symbol,occurrences,recurrence_label,retained_modules,broad_iron,core_iron
+BCL2,7,7/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet; PSP_pink,TRUE,TRUE
+PXDN,6,6/9,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+KCNH7,5,5/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,FALSE
+LMTK2,5,5/9,AD_ERC_greenyellow; FTLD1_red; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+NDUFS4,5,5/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+STC2,5,5/9,AD_ERC_greenyellow; AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black,TRUE,FALSE
+ACO1,4,4/9,FTLD1_red; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+ALOX5,4,4/9,AD_ERC_greenyellow; AD_ERC_darkred; FTLD3_black; PSP_pink,TRUE,TRUE
+ATP6V0D1,4,4/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black,TRUE,TRUE
+BMP6,4,4/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+CYB5B,4,4/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE
+CYP51A1,4,4/9,AD_HIPPO_yellow; FTLD1_red; FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+DNAJC24,4,4/9,AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+FTH1,4,4/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+MYC,4,4/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+NFU1,4,4/9,AD_ERC_darkred; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+SLC39A1,4,4/9,AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+SNCA,4,4/9,AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+ABCB6,3,3/9,AD_ERC_greenyellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+ADO,3,3/9,AD_ERC_darkred; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+ATP6V0A2,3,3/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+ATP6V1A,3,3/9,FTLD3_turquoise; MSA_violet; PSP_pink,TRUE,TRUE
+B2M,3,3/9,AD_HIPPO_yellow; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+CAT,3,3/9,FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,FALSE
+CYP27A1,3,3/9,FTLD1_red; FTLD3_black; MSA_violet,TRUE,FALSE
+CYP2E1,3,3/9,AD_ERC_greenyellow; AD_ERC_darkred; FTLD3_black,TRUE,FALSE
+DNM2,3,3/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+DOHH,3,3/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+DUOX1,3,3/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+EIF2AK1,3,3/9,AD_HIPPO_yellow; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+FBXL5,3,3/9,AD_HIPPO_yellow; FTLD1_red; FTLD3_black,TRUE,TRUE
+FTO,3,3/9,FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+GLRX3,3,3/9,AD_HIPPO_yellow; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+NDUFS8,3,3/9,FTLD2_darkmagenta; FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+NEO1,3,3/9,FTLD2_darkmagenta; FTLD3_black; MSA_violet,TRUE,TRUE
+NUBP1,3,3/9,FTLD3_black; FTLD3_turquoise; PSP_pink,TRUE,TRUE
+NUBPL,3,3/9,FTLD3_black; FTLD3_turquoise; MSA_violet,TRUE,TRUE
+SLC25A37,3,3/9,AD_ERC_darkred; AD_HIPPO_yellow; FTLD3_black,TRUE,TRUE
+SLC40A1,3,3/9,AD_ERC_darkred; FTLD2_darkmagenta; FTLD3_turquoise,TRUE,TRUE
+SLC46A1,3,3/9,AD_HIPPO_yellow; FTLD2_darkmagenta; FTLD3_black,TRUE,TRUE
+TET2,3,3/9,AD_HIPPO_yellow; FTLD2_darkmagenta; MSA_violet,TRUE,TRUE
+ACO2,2,2/9,AD_HIPPO_yellow; FTLD3_turquoise,TRUE,TRUE
+ARHGAP1,2,2/9,AD_HIPPO_yellow; FTLD2_darkmagenta,TRUE,TRUE
+CIAPIN1,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+CLTC,2,2/9,FTLD3_turquoise; MSA_violet,TRUE,TRUE
+CPOX,2,2/9,FTLD1_red; FTLD3_black,TRUE,FALSE
+CYP46A1,2,2/9,AD_ERC_darkred; MSA_violet,TRUE,FALSE
+DGCR8,2,2/9,FTLD2_darkmagenta; FTLD3_turquoise,TRUE,FALSE
+EGLN1,2,2/9,AD_ERC_darkred; FTLD3_turquoise,TRUE,TRUE
+FECH,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+GLRX5,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+HIF1A,2,2/9,FTLD2_darkmagenta; FTLD3_black,TRUE,TRUE
+HMOX2,2,2/9,FTLD2_darkmagenta; FTLD3_turquoise,TRUE,FALSE
+IREB2,2,2/9,AD_HIPPO_yellow; FTLD3_black,TRUE,TRUE
+ISCU,2,2/9,FTLD1_red; FTLD3_turquoise,TRUE,TRUE
+KDM3A,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+LYRM4,2,2/9,FTLD3_black; PSP_pink,TRUE,TRUE
+MCOLN1,2,2/9,AD_HIPPO_yellow; FTLD3_turquoise,TRUE,TRUE
+MECR,2,2/9,FTLD3_black; MSA_violet,TRUE,TRUE
+NDUFAB1,2,2/9,FTLD1_red; FTLD3_turquoise,TRUE,TRUE
+NDUFS2,2,2/9,AD_ERC_darkred; PSP_pink,TRUE,TRUE
+NDUFS3,2,2/9,FTLD3_turquoise; PSP_pink,TRUE,TRUE
+NDUFS7,2,2/9,FTLD1_red; FTLD3_turquoise,TRUE,TRUE
+NOX4,2,2/9,AD_ERC_darkred; PSP_pink,TRUE,FALSE
+NR1D1,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+PGRMC2,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+PICALM,2,2/9,FTLD3_turquoise; MSA_violet,TRUE,TRUE
+PPOX,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,FALSE
+SLC25A39,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+SLC39A14,2,2/9,AD_ERC_darkred; FTLD3_turquoise,TRUE,TRUE
+SLC39A8,2,2/9,FTLD3_turquoise; PSP_pink,TRUE,TRUE
+SLC48A1,2,2/9,AD_HIPPO_yellow; FTLD3_black,TRUE,TRUE
+SMAD1,2,2/9,FTLD3_black; FTLD3_turquoise,TRUE,TRUE
+STEAP4,2,2/9,AD_ERC_darkred; FTLD1_red,TRUE,FALSE
+TBXAS1,2,2/9,AD_ERC_darkred; FTLD3_black,TRUE,FALSE
+TET1,2,2/9,FTLD3_black; MSA_violet,TRUE,TRUE
+TFAP2A,2,2/9,AD_HIPPO_yellow; FTLD3_turquoise,TRUE,TRUE

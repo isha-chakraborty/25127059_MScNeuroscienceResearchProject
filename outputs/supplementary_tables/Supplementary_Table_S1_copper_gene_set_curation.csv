@@ -1,0 +1,48 @@
+No.,geneSymbol,Gene_set,GO_terms,GO_identifiers,Evidence_codes,Source_files
+1,ANG,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+2,ANKRD9,Copper,copper homeostasis; copper ion homeostasis,GO:0006878,IMP,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+3,AOC1,Copper,copper binding,GO:0005507; GO:0005509; GO:0005515; GO:0008201; GO:0042803,IDA; IPI,copper_binding_3.txt
+4,AOC2,Copper,copper binding,GO:0005515,IPI,copper_binding_3.txt
+5,AOC3,Copper,copper binding,GO:0005507; GO:0005509; GO:0005515; GO:0042802; GO:0046982; GO:0048038,IDA; IPI,copper_binding_3.txt
+6,APOA4,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+7,AQP1,Copper,cellular response to copper ion; copper transport; response to copper ion,GO:0071280,IDA,cellular_response_to_copper_ion_3.txt; copper_transport_3.txt; response_to_copper_ion_3.txt
+8,AQP2,Copper,cellular response to copper ion; copper transport; response to copper ion,GO:0071280,IDA,cellular_response_to_copper_ion_3.txt; copper_transport_3.txt; response_to_copper_ion_3.txt
+9,ARF1,Copper,copper homeostasis; copper ion homeostasis,GO:0006878,IMP,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+10,ATOX1,Copper,copper binding; copper chaperone activity; copper transport,GO:0005507; GO:0005515; GO:0016531; GO:0032767; GO:1903136,IDA; IPI,copper_binding_3.txt; copper_chaperone_activity_3.txt; copper_transport_3.txt
+11,ATP7A,Copper,copper binding; copper homeostasis; copper ion export; copper ion homeostasis; copper ion transmembrane transport; copper ion transmembrane transporter activity; copper transport,GO:0005507; GO:0005515; GO:0005524; GO:0005770; GO:0005783; GO:0005794; GO:0005802; GO:0005886; GO:0006825; GO:0006878; GO:0016020; GO:0016323; GO:0030140; GO:0032767; GO:0048023; GO:0048471; GO:0060003; GO:0140581; GO:1903136,HDA; IDA; IMP; IPI,copper_binding_3.txt; copper_homeostasis_3.txt; copper_ion_export_3.txt; copper_ion_homeostasis_3.txt; copper_ion_transmembrane_transport_3.txt; copper_ion_transmembrane_transporter_activity_3.txt; copper_transport_3.txt
+12,ATP7B,Copper,cellular response to copper ion; copper binding; copper ion detoxification; copper ion transmembrane transport; copper ion transmembrane transporter activity; copper transport; response to copper ion,GO:0005375; GO:0005507; GO:0005515; GO:0005524; GO:0005770; GO:0005794; GO:0005802; GO:0006825; GO:0016020; GO:0016323; GO:0031410; GO:0032588; GO:0046688; GO:0048471; GO:0140581; GO:1990880,HDA; IDA; IGI; IMP; IPI,cellular_response_to_copper_ion_3.txt; copper_binding_3.txt; copper_ion_detoxification_3.txt; copper_ion_transmembrane_transport_3.txt; copper_ion_transmembrane_transporter_activity_3.txt; copper_transport_3.txt; response_to_copper_ion_3.txt
+13,CCDC22,Copper,copper homeostasis; copper ion homeostasis,GO:0006878,IMP,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+14,CCS,Copper,copper binding,GO:0005507; GO:0005515; GO:0045296,HDA; IDA; IPI,copper_binding_3.txt
+15,COA6,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+16,COMMD1,Copper,copper binding; copper homeostasis; copper ion homeostasis,GO:0005507; GO:0055070,IDA,copper_binding_3.txt; copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+17,COX17,Copper,copper binding; copper chaperone activity,GO:0005515; GO:0016531; GO:1903136,IDA; IMP; IPI,copper_binding_3.txt; copper_chaperone_activity_3.txt
+18,COX19,Copper,copper homeostasis; copper ion homeostasis,GO:0006878,IMP,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+19,CP,Copper,copper binding; copper homeostasis; copper ion homeostasis,GO:0006878; GO:0006879; GO:0051087,IDA; IMP; IPI,copper_binding_3.txt; copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+20,CUTC,Copper,copper binding; copper homeostasis; copper ion homeostasis,GO:0005507; GO:0005515; GO:0005634; GO:0005654; GO:0005730; GO:0005737; GO:0005829; GO:0051262,HDA; IDA; IPI,copper_binding_3.txt; copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+21,DAXX,Copper,cellular response to copper ion; response to copper ion,GO:0071280,IDA,cellular_response_to_copper_ion_3.txt; response_to_copper_ion_3.txt
+22,DBH,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+23,GPC1,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+24,HEPH,Copper,copper binding,GO:0005515,IPI,copper_binding_3.txt
+25,HEPHL1,Copper,copper homeostasis; copper ion homeostasis,GO:0006879,IMP,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+26,HSF1,Copper,cellular response to copper ion; response to copper ion,GO:0071280,IDA,cellular_response_to_copper_ion_3.txt; response_to_copper_ion_3.txt
+27,IL1A,Copper,copper binding; response to copper ion,GO:0005507; GO:0046688,IDA,copper_binding_3.txt; response_to_copper_ion_3.txt
+28,LOXL2,Copper,copper binding; response to copper ion,GO:0005507; GO:0046688,IDA,copper_binding_3.txt; response_to_copper_ion_3.txt
+29,MT1G,Copper,cellular response to copper ion; response to copper ion,GO:0071280,IEP,cellular_response_to_copper_ion_3.txt; response_to_copper_ion_3.txt
+30,MT3,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+31,MUC2,Copper,copper binding; copper ion detoxification; response to copper ion,GO:0010273; GO:1903135; GO:1903136,IDA,copper_binding_3.txt; copper_ion_detoxification_3.txt; response_to_copper_ion_3.txt
+32,PARK7,Copper,copper binding; copper chaperone activity; copper ion detoxification; response to copper ion,GO:0005507; GO:0010273; GO:0016532; GO:1903135; GO:1903136,IDA; IMP,copper_binding_3.txt; copper_chaperone_activity_3.txt; copper_ion_detoxification_3.txt; response_to_copper_ion_3.txt
+33,PRND,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+34,PRNP,Copper,cellular response to copper ion; copper binding; response to copper ion,GO:0005507; GO:0071280; GO:1903136,IDA; IMP,cellular_response_to_copper_ion_3.txt; copper_binding_3.txt; response_to_copper_ion_3.txt
+35,S100A13,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+36,S100A5,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+37,SLC11A2,Copper,copper ion transmembrane transport; copper ion transmembrane transporter activity; copper transport,GO:0005375; GO:0006825,IDA,copper_ion_transmembrane_transport_3.txt; copper_ion_transmembrane_transporter_activity_3.txt; copper_transport_3.txt
+38,SLC30A1,Copper,copper transport,GO:0006825,IMP,copper_transport_3.txt
+39,SLC30A10,Copper,copper homeostasis; copper ion homeostasis,GO:0006878,IDA,copper_homeostasis_3.txt; copper_ion_homeostasis_3.txt
+40,SLC31A1,Copper,copper binding; copper ion import; copper ion transmembrane transport; copper ion transmembrane transporter activity; copper transport; copper uptake,GO:0001525; GO:0005375; GO:0005507; GO:0005515; GO:0005886; GO:0015080; GO:0015677; GO:0015679; GO:0031901; GO:0036324; GO:0042802; GO:0042908; GO:0051259; GO:0055038; GO:1902601,EXP; IDA; IMP; IPI,copper_binding_3.txt; copper_ion_import_3.txt; copper_ion_transmembrane_transport_3.txt; copper_ion_transmembrane_transporter_activity_3.txt; copper_transport_3.txt; copper_uptake_3.txt
+41,SLC31A2,Copper,copper binding; copper ion import; copper ion transmembrane transport; copper ion transmembrane transporter activity; copper transport,GO:0005375; GO:0005515; GO:0005765; GO:0005886; GO:0006825; GO:0015677; GO:0031902,IDA; IPI,copper_binding_3.txt; copper_ion_import_3.txt; copper_ion_transmembrane_transport_3.txt; copper_ion_transmembrane_transporter_activity_3.txt; copper_transport_3.txt
+42,SNCA,Copper,cellular response to copper ion; copper binding; response to copper ion,GO:0005507; GO:0031648; GO:0071280; GO:1903136,IDA; IMP,cellular_response_to_copper_ion_3.txt; copper_binding_3.txt; response_to_copper_ion_3.txt
+43,SNCB,Copper,copper binding,GO:1903136,IMP,copper_binding_3.txt
+44,SOD1,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+45,SUMF1,Copper,copper binding,GO:1903135,IDA,copper_binding_3.txt
+46,TP53,Copper,copper binding,GO:0005507,IDA,copper_binding_3.txt
+47,TYR,Copper,copper binding,GO:0005507,IMP,copper_binding_3.txt

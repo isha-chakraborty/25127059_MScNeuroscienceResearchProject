@@ -1,0 +1,11 @@
+No.,Disease group,Dataset/cohort,Module,Gene set,Overlap,Module size,Odds ratio,P-value,FDR
+1,Alzheimer's disease,ERC,Darkred,Broad iron,24,1823,1.6353441680243133,0.041781869609253404,0.46743029975100114
+2,Alzheimer's disease,HIPPO,Yellow,Core iron,22,2433,1.662140911815206,0.04446378646632024,0.4001740781968821
+3,Frontotemporal lobar degeneration,FTLD2,Darkmagenta,Core iron,17,1063,2.8903453421467113,3.2655625088132774e-4,0.016001256293185058
+4,Frontotemporal lobar degeneration,FTLD2,Darkmagenta,Broad iron,21,1063,2.352737275411066,0.0011986622333839568,0.05873444943581388
+5,Frontotemporal lobar degeneration,FTLD3,Black,Core iron,47,5371,1.6643459376398566,0.014569412109452486,0.10551439988260278
+6,Frontotemporal lobar degeneration,FTLD3,Turquoise,Core iron,48,5506,1.6674587576589814,0.015073485697514682,0.10551439988260278
+7,Frontotemporal lobar degeneration,FTLD3,Black,Broad iron,63,5371,1.4588565955723272,0.02737906925945234,0.24321352685865671
+8,Frontotemporal lobar degeneration,FTLD3,Turquoise,Broad iron,64,5506,1.44383962252876,0.03474478955123667,0.24321352685865671
+9,Movement disorders,Movement-disorder network,Violet,Core iron,16,1461,1.8497805811779144,0.03615854323173722,0.5817590924655259
+10,Movement disorders,Movement-disorder network,Pink,Core iron,18,1729,1.766277853891824,0.03635994327909537,0.5817590924655259

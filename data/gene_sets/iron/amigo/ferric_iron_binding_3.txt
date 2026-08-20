@@ -1,0 +1,6 @@
+UniProtKB	Q16595	FXN		GO:0008199	PMID:12785837	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080914	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008199	PMID:18537827	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080912	BHF-UCL		UniProtKB:Q16595
+ComplexPortal	CPX-2194	rrm1-rrm2_human		GO:0008199	PMID:24253041	IPI		F	Ribonucleoside-diphosphate reductase RR1 complex, RRM2 variant	RRM1:RRM2|Ribonucleotide diphosphate reductase RR1 complex|Class I ribonucleotide reductase complex|RNR complex|RIR1-RIR2 complex|Class I RR complex	protein_complex	NCBITaxon:9606	20251105	ComplexPortal		
+ComplexPortal	CPX-369	rrm1-rrm2b_human		GO:0008199	PMID:19728742	IPI		F	Ribonucleoside-diphosphate reductase RR1 complex, RRM2B variant	RRM1:RRM2B|Ribonucleotide diphosphate reductase RR1 complex|Class I ribonucleotide reductase complex|RNR complex|RIR1-RIR2B complex|p53-inducible ribonucleotide reductase complex|Class I RR complex	protein_complex	NCBITaxon:9606	20251105	ComplexPortal		
+UniProtKB	Q9UGB7	MIOX		GO:0008199	PMID:18364358	IDA		F	Inositol oxygenase	ALDRL6|KSP32|RSOR	protein	NCBITaxon:9606	20110623	UniProt		UniProtKB:Q9UGB7
+UniProtKB	P13686	ACP5		GO:0008199	PMID:15993892	IDA		F	Tartrate-resistant acid phosphatase type 5		protein	NCBITaxon:9606	20091119	UniProt		UniProtKB:P13686

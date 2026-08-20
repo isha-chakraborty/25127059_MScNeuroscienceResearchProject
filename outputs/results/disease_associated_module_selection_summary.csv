@@ -1,0 +1,5 @@
+measure,value
+Source networks,9
+Total modules tested across source networks,251
+Disease-associated modules retained,88
+Family-wise alpha,0.05

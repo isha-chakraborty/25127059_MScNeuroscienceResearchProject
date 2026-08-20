@@ -1,0 +1,223 @@
+module_id,gene_symbol,copper,broad_iron,core_iron,module_order,disease_group,cohort,module_colour,occurrences,recurrence_label
+AD_ERC_darkred,BCL2,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,7,7/9
+AD_HIPPO_yellow,BCL2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,7,7/9
+FTLD2_darkmagenta,BCL2,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,7,7/9
+FTLD3_black,BCL2,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,7,7/9
+FTLD3_turquoise,BCL2,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,7,7/9
+MSA_violet,BCL2,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,7,7/9
+PSP_pink,BCL2,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,7,7/9
+AD_ERC_greenyellow,PXDN,FALSE,TRUE,FALSE,1,Alzheimer's disease,ERC,greenyellow,6,6/9
+AD_ERC_darkred,PXDN,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,6,6/9
+AD_HIPPO_yellow,PXDN,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,6,6/9
+FTLD2_darkmagenta,PXDN,FALSE,TRUE,FALSE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,6,6/9
+FTLD3_black,PXDN,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,6,6/9
+FTLD3_turquoise,PXDN,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,6,6/9
+AD_ERC_darkred,KCNH7,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,5,5/9
+AD_HIPPO_yellow,KCNH7,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,5,5/9
+FTLD3_black,KCNH7,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,5,5/9
+FTLD3_turquoise,KCNH7,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,5,5/9
+MSA_violet,KCNH7,FALSE,TRUE,FALSE,8,Multiple system atrophy,MSA,violet,5,5/9
+AD_ERC_greenyellow,LMTK2,FALSE,TRUE,TRUE,1,Alzheimer's disease,ERC,greenyellow,5,5/9
+FTLD1_red,LMTK2,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,5,5/9
+FTLD2_darkmagenta,LMTK2,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,5,5/9
+FTLD3_black,LMTK2,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,5,5/9
+FTLD3_turquoise,LMTK2,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,5,5/9
+AD_ERC_darkred,NDUFS4,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,5,5/9
+AD_HIPPO_yellow,NDUFS4,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,5,5/9
+FTLD1_red,NDUFS4,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,5,5/9
+FTLD3_black,NDUFS4,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,5,5/9
+FTLD3_turquoise,NDUFS4,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,5,5/9
+AD_ERC_greenyellow,STC2,FALSE,TRUE,FALSE,1,Alzheimer's disease,ERC,greenyellow,5,5/9
+AD_ERC_darkred,STC2,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,5,5/9
+AD_HIPPO_yellow,STC2,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,5,5/9
+FTLD2_darkmagenta,STC2,FALSE,TRUE,FALSE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,5,5/9
+FTLD3_black,STC2,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,5,5/9
+FTLD1_red,ACO1,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,4,4/9
+FTLD3_black,ACO1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,ACO1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+MSA_violet,ACO1,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,4,4/9
+AD_ERC_greenyellow,ALOX5,FALSE,TRUE,TRUE,1,Alzheimer's disease,ERC,greenyellow,4,4/9
+AD_ERC_darkred,ALOX5,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,4,4/9
+FTLD3_black,ALOX5,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+PSP_pink,ALOX5,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,4,4/9
+AD_ERC_darkred,ATP6V0D1,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,4,4/9
+AD_HIPPO_yellow,ATP6V0D1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD2_darkmagenta,ATP6V0D1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,4,4/9
+FTLD3_black,ATP6V0D1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD2_darkmagenta,BMP6,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,4,4/9
+FTLD3_black,BMP6,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,BMP6,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+MSA_violet,BMP6,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,4,4/9
+AD_HIPPO_yellow,CYB5B,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD3_black,CYB5B,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,CYB5B,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+PSP_pink,CYB5B,FALSE,TRUE,FALSE,9,Progressive supranuclear palsy,PSP,pink,4,4/9
+AD_HIPPO_yellow,CYP51A1,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD1_red,CYP51A1,FALSE,TRUE,FALSE,4,Frontotemporal lobar degeneration,FTLD1,red,4,4/9
+FTLD3_black,CYP51A1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,CYP51A1,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+AD_HIPPO_yellow,DNAJC24,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD2_darkmagenta,DNAJC24,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,4,4/9
+FTLD3_turquoise,DNAJC24,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+MSA_violet,DNAJC24,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,4,4/9
+AD_HIPPO_yellow,FTH1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD3_black,FTH1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,FTH1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+PSP_pink,FTH1,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,4,4/9
+FTLD2_darkmagenta,MYC,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,4,4/9
+FTLD3_black,MYC,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,MYC,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+MSA_violet,MYC,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,4,4/9
+AD_ERC_darkred,NFU1,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,4,4/9
+FTLD3_black,NFU1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,NFU1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+PSP_pink,NFU1,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,4,4/9
+AD_HIPPO_yellow,SLC39A1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,4,4/9
+FTLD2_darkmagenta,SLC39A1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,4,4/9
+FTLD3_black,SLC39A1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,SLC39A1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+AD_ERC_greenyellow,SNCA,TRUE,TRUE,TRUE,1,Alzheimer's disease,ERC,greenyellow,4,4/9
+FTLD3_black,SNCA,TRUE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,4,4/9
+FTLD3_turquoise,SNCA,TRUE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,4,4/9
+PSP_pink,SNCA,TRUE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,4,4/9
+AD_ERC_greenyellow,ABCB6,FALSE,TRUE,TRUE,1,Alzheimer's disease,ERC,greenyellow,3,3/9
+FTLD3_black,ABCB6,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,ABCB6,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+AD_ERC_darkred,ADO,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,3,3/9
+FTLD3_turquoise,ADO,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+PSP_pink,ADO,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+AD_HIPPO_yellow,ATP6V0A2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_black,ATP6V0A2,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,ATP6V0A2,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+FTLD3_turquoise,ATP6V1A,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+MSA_violet,ATP6V1A,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,3,3/9
+PSP_pink,ATP6V1A,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+AD_HIPPO_yellow,B2M,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_turquoise,B2M,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+PSP_pink,B2M,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+FTLD3_black,CAT,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,CAT,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+PSP_pink,CAT,FALSE,TRUE,FALSE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+FTLD1_red,CYP27A1,FALSE,TRUE,FALSE,4,Frontotemporal lobar degeneration,FTLD1,red,3,3/9
+FTLD3_black,CYP27A1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+MSA_violet,CYP27A1,FALSE,TRUE,FALSE,8,Multiple system atrophy,MSA,violet,3,3/9
+AD_ERC_greenyellow,CYP2E1,FALSE,TRUE,FALSE,1,Alzheimer's disease,ERC,greenyellow,3,3/9
+AD_ERC_darkred,CYP2E1,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,3,3/9
+FTLD3_black,CYP2E1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+AD_HIPPO_yellow,DNM2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_black,DNM2,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,DNM2,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+FTLD2_darkmagenta,DOHH,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+FTLD3_black,DOHH,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,DOHH,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+AD_HIPPO_yellow,DUOX1,FALSE,TRUE,FALSE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_black,DUOX1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,DUOX1,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+AD_HIPPO_yellow,EIF2AK1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_black,EIF2AK1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,EIF2AK1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+AD_HIPPO_yellow,FBXL5,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD1_red,FBXL5,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,3,3/9
+FTLD3_black,FBXL5,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_black,FTO,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,FTO,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+PSP_pink,FTO,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+AD_HIPPO_yellow,GLRX3,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_turquoise,GLRX3,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+MSA_violet,GLRX3,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,3,3/9
+FTLD2_darkmagenta,NDUFS8,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+FTLD3_black,NDUFS8,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,NDUFS8,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+FTLD2_darkmagenta,NEO1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+FTLD3_black,NEO1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+MSA_violet,NEO1,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,3,3/9
+FTLD3_black,NUBP1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,NUBP1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+PSP_pink,NUBP1,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,3,3/9
+FTLD3_black,NUBPL,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+FTLD3_turquoise,NUBPL,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+MSA_violet,NUBPL,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,3,3/9
+AD_ERC_darkred,SLC25A37,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,3,3/9
+AD_HIPPO_yellow,SLC25A37,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD3_black,SLC25A37,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+AD_ERC_darkred,SLC40A1,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,3,3/9
+FTLD2_darkmagenta,SLC40A1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+FTLD3_turquoise,SLC40A1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,3,3/9
+AD_HIPPO_yellow,SLC46A1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD2_darkmagenta,SLC46A1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+FTLD3_black,SLC46A1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,3,3/9
+AD_HIPPO_yellow,TET2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,3,3/9
+FTLD2_darkmagenta,TET2,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,3,3/9
+MSA_violet,TET2,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,3,3/9
+AD_HIPPO_yellow,ACO2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD3_turquoise,ACO2,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_HIPPO_yellow,ARHGAP1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD2_darkmagenta,ARHGAP1,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,2,2/9
+FTLD3_black,CIAPIN1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,CIAPIN1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_turquoise,CLTC,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+MSA_violet,CLTC,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,2,2/9
+FTLD1_red,CPOX,FALSE,TRUE,FALSE,4,Frontotemporal lobar degeneration,FTLD1,red,2,2/9
+FTLD3_black,CPOX,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+AD_ERC_darkred,CYP46A1,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,2,2/9
+MSA_violet,CYP46A1,FALSE,TRUE,FALSE,8,Multiple system atrophy,MSA,violet,2,2/9
+FTLD2_darkmagenta,DGCR8,FALSE,TRUE,FALSE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,2,2/9
+FTLD3_turquoise,DGCR8,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_ERC_darkred,EGLN1,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,2,2/9
+FTLD3_turquoise,EGLN1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,FECH,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,FECH,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,GLRX5,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,GLRX5,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD2_darkmagenta,HIF1A,FALSE,TRUE,TRUE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,2,2/9
+FTLD3_black,HIF1A,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD2_darkmagenta,HMOX2,FALSE,TRUE,FALSE,5,Frontotemporal lobar degeneration,FTLD2,darkmagenta,2,2/9
+FTLD3_turquoise,HMOX2,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_HIPPO_yellow,IREB2,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD3_black,IREB2,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD1_red,ISCU,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,2,2/9
+FTLD3_turquoise,ISCU,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,KDM3A,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,KDM3A,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,LYRM4,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+PSP_pink,LYRM4,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,2,2/9
+AD_HIPPO_yellow,MCOLN1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD3_turquoise,MCOLN1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,MECR,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+MSA_violet,MECR,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,2,2/9
+FTLD1_red,NDUFAB1,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,2,2/9
+FTLD3_turquoise,NDUFAB1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_ERC_darkred,NDUFS2,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,2,2/9
+PSP_pink,NDUFS2,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,2,2/9
+FTLD3_turquoise,NDUFS3,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+PSP_pink,NDUFS3,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,2,2/9
+FTLD1_red,NDUFS7,FALSE,TRUE,TRUE,4,Frontotemporal lobar degeneration,FTLD1,red,2,2/9
+FTLD3_turquoise,NDUFS7,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_ERC_darkred,NOX4,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,2,2/9
+PSP_pink,NOX4,FALSE,TRUE,FALSE,9,Progressive supranuclear palsy,PSP,pink,2,2/9
+FTLD3_black,NR1D1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,NR1D1,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,PGRMC2,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,PGRMC2,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_turquoise,PICALM,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+MSA_violet,PICALM,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,2,2/9
+FTLD3_black,PPOX,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,PPOX,FALSE,TRUE,FALSE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_black,SLC25A39,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,SLC25A39,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_ERC_darkred,SLC39A14,FALSE,TRUE,TRUE,2,Alzheimer's disease,ERC,darkred,2,2/9
+FTLD3_turquoise,SLC39A14,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+FTLD3_turquoise,SLC39A8,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+PSP_pink,SLC39A8,FALSE,TRUE,TRUE,9,Progressive supranuclear palsy,PSP,pink,2,2/9
+AD_HIPPO_yellow,SLC48A1,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD3_black,SLC48A1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_black,SMAD1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_turquoise,SMAD1,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9
+AD_ERC_darkred,STEAP4,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,2,2/9
+FTLD1_red,STEAP4,FALSE,TRUE,FALSE,4,Frontotemporal lobar degeneration,FTLD1,red,2,2/9
+AD_ERC_darkred,TBXAS1,FALSE,TRUE,FALSE,2,Alzheimer's disease,ERC,darkred,2,2/9
+FTLD3_black,TBXAS1,FALSE,TRUE,FALSE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+FTLD3_black,TET1,FALSE,TRUE,TRUE,6,Frontotemporal lobar degeneration,FTLD3,black,2,2/9
+MSA_violet,TET1,FALSE,TRUE,TRUE,8,Multiple system atrophy,MSA,violet,2,2/9
+AD_HIPPO_yellow,TFAP2A,FALSE,TRUE,TRUE,3,Alzheimer's disease,HIPPO,yellow,2,2/9
+FTLD3_turquoise,TFAP2A,FALSE,TRUE,TRUE,7,Frontotemporal lobar degeneration,FTLD3,turquoise,2,2/9

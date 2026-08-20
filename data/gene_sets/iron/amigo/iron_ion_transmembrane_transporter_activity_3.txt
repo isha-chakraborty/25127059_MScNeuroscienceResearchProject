@@ -1,0 +1,42 @@
+UniProtKB	Q9NP59	SLC40A1		GO:0015093	PMID:15692071	IDA		F	Ferroportin	FPN|FPN1|IREG1|SLC11A3|MSTP079	protein	NCBITaxon:9606	20240422	UniProt	CHEBI:29033|CHEBI:29033	UniProtKB:Q9NP59
+UniProtKB	Q9C0K1	SLC39A8		GO:0140410	PMID:22898811	IDA		F	Metal cation symporter ZIP8	BIGM103|ZIP8|PP3105	protein	NCBITaxon:9606	20230104	UniProt	CHEBI:29033	UniProtKB:Q9C0K1
+UniProtKB	Q9NY26	SLC39A1		GO:0005385	PMID:11301334	IDA		F	Zinc transporter ZIP1	IRT1|ZIP1|ZIRTL|CGI-08|CGI-71	protein	NCBITaxon:9606	20230105	UniProt		UniProtKB:Q9NY26
+UniProtKB	Q9NP94	SLC39A2		GO:0005385	PMID:20148757	IMP		F	Zinc transporter ZIP2	ZIP2	protein	NCBITaxon:9606	20110125	UniProt		UniProtKB:Q9NP94
+UniProtKB	Q9NP94	SLC39A2		GO:0005385	PMID:29791142	IDA		F	Zinc transporter ZIP2	ZIP2	protein	NCBITaxon:9606	20230224	UniProt		UniProtKB:Q9NP94
+UniProtKB	Q9NP94	SLC39A2		GO:0046873	PMID:29791142	IDA		F	Zinc transporter ZIP2	ZIP2	protein	NCBITaxon:9606	20230227	UniProt		UniProtKB:Q9NP94
+UniProtKB	P49279	SLC11A1		GO:0005381	PMID:9730978	IDA		F	Natural resistance-associated macrophage protein 1	LSH|NRAMP|NRAMP1	protein	NCBITaxon:9606	20230508	UniProt		UniProtKB:P49279
+UniProtKB	Q9NYZ2	SLC25A37		GO:0005381	PMID:35513392	IDA		F	Mitoferrin-1	MFRN|MSCP|HT015	protein	NCBITaxon:9606	20240214	UniProt		UniProtKB:Q9NYZ2
+UniProtKB	Q9GZU1	MCOLN1		GO:0005381	PMID:18794901	IDA		F	Mucolipin-1	ML4|TRPML1|MSTP080	protein	NCBITaxon:9606	20240319	UniProt		UniProtKB:Q9GZU1
+UniProtKB	Q9NP59	SLC40A1		GO:0005381	PMID:12091367	IMP		F	Ferroportin	FPN|FPN1|IREG1|SLC11A3|MSTP079	protein	NCBITaxon:9606	20110816	BHF-UCL		UniProtKB:Q9NP59
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:12734107	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090719	BHF-UCL		UniProtKB:P49281
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:17109629	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090930	UniProt		UniProtKB:P49281-1
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:17109629	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090930	UniProt		UniProtKB:P49281-2
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:17109629	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090930	UniProt		UniProtKB:P49281-3
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:17109629	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090930	UniProt		UniProtKB:P49281-4
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:17293870	IDA		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20090719	BHF-UCL		UniProtKB:P49281
+UniProtKB	P49281	SLC11A2		GO:0015093	PMID:25491917	IMP		F	Natural resistance-associated macrophage protein 2	DCT1|DMT1|NRAMP2|OK/SW-cl.20	protein	NCBITaxon:9606	20150216	UniProt		UniProtKB:P49281
+UniProtKB	P81172	HAMP		GO:0097690	PMID:15514116	IDA		F	Hepcidin	HEPC|LEAP1|UNQ487/PRO1003	protein	NCBITaxon:9606	20240926	BHF-UCL	UniProtKB:Q9NP59	UniProtKB:P81172-PRO_0000013379
+UniProtKB	Q6P1K1	SLC48A1		GO:0015232	PMID:18418376	IDA		F	Heme transporter HRG1	HRG1	protein	NCBITaxon:9606	20161012	WB		UniProtKB:Q6P1K1
+UniProtKB	O15440	ABCC5		GO:0015232	PMID:24836561	IMP		F	ATP-binding cassette sub-family C member 5	MRP5	protein	NCBITaxon:9606	20210107	UniProt		UniProtKB:O15440
+UniProtKB	Q9UPI3	FLVCR2		GO:0015232	PMID:20823265	IDA		F	Choline/ethanolamine transporter FLVCR2	C14orf58	protein	NCBITaxon:9606	20100927	UniProt		UniProtKB:Q9UPI3
+UniProtKB	Q96NT5	SLC46A1	not	GO:0015232	PMID:17129779	IDA		F	Proton-coupled folate transporter	G21|HCP1|PCFT	protein	NCBITaxon:9606	20150706	BHF-UCL		UniProtKB:Q96NT5
+UniProtKB	Q9Y5Y0	FLVCR1		GO:0015232	PMID:15369674	IMP		F	Choline/ethanolamine transporter FLVCR1	FLVCR	protein	NCBITaxon:9606	20110404	UniProt		UniProtKB:Q9Y5Y0
+UniProtKB	Q9Y5Y0	FLVCR1		GO:0015232	PMID:20610401	IDA		F	Choline/ethanolamine transporter FLVCR1	FLVCR	protein	NCBITaxon:9606	20110404	UniProt		UniProtKB:Q9Y5Y0
+UniProtKB	Q9Y5Y0	FLVCR1		GO:0015232	PMID:22483575	IDA		F	Choline/ethanolamine transporter FLVCR1	FLVCR	protein	NCBITaxon:9606	20240508	UniProt	GO:0097037	UniProtKB:Q9Y5Y0
+UniProtKB	P28331	NDUFS1	contributes_to	GO:0008137	PMID:15824269	IMP		F	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		protein	NCBITaxon:9606	20070307	UniProt		UniProtKB:P28331
+UniProtKB	P28331	NDUFS1	contributes_to	GO:0008137	PMID:16478720	IMP		F	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		protein	NCBITaxon:9606	20070301	UniProt		UniProtKB:P28331
+UniProtKB	P28331	NDUFS1	contributes_to	GO:0008137	PMID:16870178	IMP		F	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		protein	NCBITaxon:9606	20070302	UniProt		UniProtKB:P28331
+UniProtKB	P28331	NDUFS1		GO:0008137	PMID:30879903	IMP		F	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		protein	NCBITaxon:9606	20210118	UniProt		UniProtKB:P28331
+UniProtKB	P28331	NDUFS1		GO:0008137	PMID:31557978	IMP		F	NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial		protein	NCBITaxon:9606	20210118	UniProt		UniProtKB:P28331
+UniProtKB	O43181	NDUFS4	contributes_to	GO:0008137	PMID:15038602	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial		protein	NCBITaxon:9606	20070302	UniProt		UniProtKB:O43181
+UniProtKB	O43181	NDUFS4	contributes_to	GO:0008137	PMID:16870178	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial		protein	NCBITaxon:9606	20070302	UniProt		UniProtKB:O43181
+UniProtKB	O43181	NDUFS4		GO:0008137	PMID:16478720	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial		protein	NCBITaxon:9606	20070221	UniProt		UniProtKB:O43181
+UniProtKB	O75489	NDUFS3	contributes_to	GO:0008137	PMID:30140060	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial		protein	NCBITaxon:9606	20210223	UniProt		UniProtKB:O75489
+UniProtKB	O75489	NDUFS3		GO:0008137	PMID:14729820	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial		protein	NCBITaxon:9606	20210111	UniProt		UniProtKB:O75489
+UniProtKB	O75306	NDUFS2	contributes_to	GO:0008137	PMID:22036843	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial		protein	NCBITaxon:9606	20201217	UniProt		UniProtKB:O75306
+UniProtKB	O75306	NDUFS2	contributes_to	GO:0008137	PMID:30922174	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial		protein	NCBITaxon:9606	20201217	UniProt		UniProtKB:O75306
+UniProtKB	O75306	NDUFS2		GO:0008137	PMID:28031252	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial		protein	NCBITaxon:9606	20240305	UniProt		UniProtKB:O75306
+UniProtKB	O75251	NDUFS7		GO:0008137	PMID:17275378	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial		protein	NCBITaxon:9606	20210118	UniProt		UniProtKB:O75251
+UniProtKB	O00217	NDUFS8	contributes_to	GO:0008137	PMID:9837812	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial		protein	NCBITaxon:9606	20070301	UniProt		UniProtKB:O00217
+UniProtKB	O00217	NDUFS8		GO:0008137	PMID:22499348	IMP		F	NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial		protein	NCBITaxon:9606	20210118	UniProt		UniProtKB:O00217
+UniProtKB	Q9NP58	ABCB6		GO:0015439	PMID:17006453	IMP		F	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20100806	UniProt		UniProtKB:Q9NP58

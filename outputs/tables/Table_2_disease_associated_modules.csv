@@ -1,0 +1,10 @@
+Disease / comparison,Dataset or network,"Modules tested, n",Bonferroni threshold,"Retained modules, n",Retained disease-associated modules,Source
+AD,DLPFC,16,0.003125,6,Purple; Yellow; Midnightblue; Green; Greenyellow; Salmon,Fodder et al. (2026)
+AD,ERC,25,0.002,17,Purple; Lightgreen; Pink; Black; Lightyellow; Turquoise; Midnightblue; Tan; Greenyellow; Lightcyan; Darkred; Grey60; Orange; Blue; Cyan; Darkgrey; Royalblue,Fodder et al. (2026)
+AD,HIPPO,18,0.002777777777777778,8,Midnightblue; Grey60; Salmon; Magenta; Lightgreen; Yellow; Green; Brown,Fodder et al. (2026)
+FTLD,FTLD1,33,0.0015151515151515152,9,Darkturquoise; Skyblue; White; Brown; Violet; Grey60; Red; Blue; Darkgreen,Fodder et al. (2023)
+FTLD,FTLD2,49,0.0010204081632653062,16,Darkorange2; Plum2; Lightcyan1; Mediumpurple3; Sienna3; Darkmagenta; Red; Ivory; Darkgrey; Darkorange; Tan; Midnightblue; Orangered4; Steelblue; Blue; Paleturquoise,Fodder et al. (2023)
+FTLD,FTLD3,14,0.0035714285714285718,10,Purple; Cyan; Salmon; Black; Turquoise; Blue; Magenta; Pink; Yellow; Brown,Fodder et al. (2023)
+MSA,Movement-disorder network,32,0.0015625,7,Darkturquoise; Violet; Darkgreen; Saddlebrown; Lightcyan; White; Midnightblue,Murthy et al. (2024)
+PD,Movement-disorder network,32,0.0015625,6,Darkturquoise; Darkgreen; Lightcyan; Darkgrey; White; Darkred,Murthy et al. (2024)
+PSP,Movement-disorder network,32,0.0015625,9,Darkorange; Lightgreen; Black; Skyblue; Lightcyan; Pink; Darkgrey; Darkred; Steelblue,Murthy et al. (2024)

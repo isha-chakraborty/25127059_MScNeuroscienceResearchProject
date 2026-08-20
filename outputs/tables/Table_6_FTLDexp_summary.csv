@@ -1,0 +1,5 @@
+module_label,enriched_metal_set,candidate_occurrences_evaluated,matched_in_FTLDexp,significant_genes_n,upregulated_n,downregulated_n,upregulated_genes,downregulated_genes
+FTLD1 red,Copper,20,18,3,2,1,"STEAP4, PLOD3",LMTK2
+FTLD2 darkmagenta,Broad and core iron,21,21,4,3,1,"AOX1, BMP6, SLC39A1",LMTK2
+FTLD3 black,Broad and core iron,72,71,18,9,9,"BMP6, ALOX5, SMAD9, MT3, CAT, SLC39A1, NUBP1, SMAD1, SLC25A39","CYP2E1, SNCA, LMTK2, NDFIP1, MECR, ATP13A2, LYRM4, FECH, ARF1"
+FTLD3 turquoise,Broad and core iron,75,75,15,8,7,"BMP6, TFAP2A, MT3, CAT, SLC39A1, NUBP1, SMAD1, SLC25A39","SNCA, LMTK2, ADO, COX10, FECH, ACO2, ARF1"

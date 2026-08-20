@@ -1,0 +1,10 @@
+module_order,module_id,module_label,metal_enrichment,module_genes,background_genes
+1,AD_ERC_greenyellow,AD ERC greenyellow,Copper,863,14429
+2,AD_ERC_darkred,AD ERC darkred,Broad iron,1823,14429
+3,AD_HIPPO_yellow,AD HIPPO yellow,Core iron,2433,13606
+4,FTLD1_red,FTLD1 red,Copper,1598,15242
+5,FTLD2_darkmagenta,FTLD2 darkmagenta,Broad and core iron,1063,15193
+6,FTLD3_black,FTLD3 black,Broad and core iron,5371,15037
+7,FTLD3_turquoise,FTLD3 turquoise,Broad and core iron,5506,15037
+8,MSA_violet,MSA violet,Core iron,1461,15579
+9,PSP_pink,PSP pink,Core iron,1729,15579

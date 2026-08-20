@@ -1,0 +1,1 @@
+UniProtKB	Q04656	ATP7A		GO:0060003	PMID:10419525	IDA		P	Copper-transporting ATPase 1	MC1|MNK	protein	NCBITaxon:9606	20210112	UniProt		UniProtKB:Q04656

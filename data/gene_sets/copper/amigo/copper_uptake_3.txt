@@ -1,0 +1,32 @@
+UniProtKB	O15431	SLC31A1		GO:0005507	PMID:26745413	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230110	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005507	PMID:36409899	EXP		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20220228	DisProt	ChEBI:49552	UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015677	PMID:16135512	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015677	PMID:19740744	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015677	PMID:23658018	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230120	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005375	PMID:11734551	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005375	PMID:16135512	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005375	PMID:17525160	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005375	PMID:19740744	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005375	PMID:23658018	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230120	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015679	PMID:11734551	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015679	PMID:17525160	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005515	PMID:24837030	IPI	UniProtKB:O00244	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005515	PMID:26745413	IPI	UniProtKB:O00244	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230110	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005515	PMID:31292775	IPI	UniProtKB:O14618	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230113	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005515	PMID:31292775	IPI	UniProtKB:O14618|UniProtKB:P00441	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230113	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005515	PMID:35027734	IPI	UniProtKB:P35968	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221209	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0015080	PMID:20569931	IDA		F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0042802	PMID:16501047	IPI	UniProtKB:O15431	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0042802	PMID:19240214	IPI	UniProtKB:O15431	F	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20260228	IntAct		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0001525	PMID:35027734	IMP		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221209	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0036324	PMID:35027734	IMP		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221209	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0042908	PMID:20451502	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230119	UniProt	CHEBI:27899	UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0051259	PMID:15326162	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230105	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:1902601	PMID:20569931	IDA		P	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005886	PMID:11734551	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005886	PMID:17525160	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20221208	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005886	PMID:20451502	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230109	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005886	PMID:23658018	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230120	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0005886	PMID:26945057	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230112	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0031901	PMID:26945057	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230112	UniProt		UniProtKB:O15431
+UniProtKB	O15431	SLC31A1		GO:0055038	PMID:26945057	IDA		C	High affinity copper uptake protein 1	COPT1|CTR1	protein	NCBITaxon:9606	20230112	UniProt		UniProtKB:O15431

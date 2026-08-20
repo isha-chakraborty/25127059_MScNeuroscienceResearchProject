@@ -1,0 +1,85 @@
+UniProtKB	Q14154	DELE1		GO:0140468	PMID:37327776	IDA		P	DAP3-binding cell death enhancer 1	DELE|KIAA0141	protein	NCBITaxon:9606	20230714	UniProt	GO:1990641	UniProtKB:Q14154
+UniProtKB	P61769	B2M		GO:0005515	PMID:9465039	IPI	UniProtKB:Q30201	F	Beta-2-microglobulin	CDABP0092|HDCMA22P	protein	NCBITaxon:9606	20250305	BHF-UCL	GO:0034757	UniProtKB:P61769
+UniProtKB	Q14154	DELE1		GO:0043539	PMID:37327776	IDA		F	DAP3-binding cell death enhancer 1	DELE|KIAA0141	protein	NCBITaxon:9606	20230714	UniProt	GO:0140468|GO:1990641|GO:0005741|UniProtKB:Q9BQI3	UniProtKB:Q14154
+UniProtKB	Q6ZMT4	KDM7A		GO:0005506	PMID:20023638	IDA		F	Lysine-specific demethylase 7A	JHDM1D|KDM7|KIAA1718	protein	NCBITaxon:9606	20100127	UniProt		UniProtKB:Q6ZMT4
+UniProtKB	P08684	CYP3A4		GO:0005506	PMID:15256616	IDA		F	Cytochrome P450 3A4	CYP3A3	protein	NCBITaxon:9606	20090415	BHF-UCL		UniProtKB:P08684
+UniProtKB	P08582	MELTF		GO:0005506	PMID:7556058	IMP		F	Melanotransferrin	MAP97|MFI2	protein	NCBITaxon:9606	20140214	UniProt		UniProtKB:P08582
+UniProtKB	Q9BU89	DOHH		GO:0005506	PMID:16533814	IMP		F	Deoxyhypusine hydroxylase	HLRC1	protein	NCBITaxon:9606	20180425	UniProt		UniProtKB:Q9BU89
+UniProtKB	Q9BU89	DOHH		GO:0005506	PMID:19706422	IMP		F	Deoxyhypusine hydroxylase	HLRC1	protein	NCBITaxon:9606	20180425	UniProt		UniProtKB:Q9BU89
+UniProtKB	Q9BU89	DOHH		GO:0005506	PMID:25865244	IDA		F	Deoxyhypusine hydroxylase	HLRC1	protein	NCBITaxon:9606	20180425	UniProt		UniProtKB:Q9BU89
+UniProtKB	P09917	ALOX5		GO:0005506	PMID:21233389	IDA		F	Polyunsaturated fatty acid 5-lipoxygenase	LOG5	protein	NCBITaxon:9606	20110117	UniProt		UniProtKB:P09917
+UniProtKB	Q6NYC1	JMJD6		GO:0005506	PMID:20679243	IDA		F	Bifunctional arginine demethylase and lysyl-hydroxylase JMJD6	KIAA0585|PSR|PTDSR	protein	NCBITaxon:9606	20110304	UniProt		UniProtKB:Q6NYC1
+UniProtKB	P48200	IREB2		GO:0006879	PMID:30915432	IMP		P	Iron-responsive element-binding protein 2		protein	NCBITaxon:9606	20221212	UniProt		UniProtKB:P48200
+UniProtKB	Q13492	PICALM		GO:0006879	PMID:22952941	IMP		P	Phosphatidylinositol-binding clathrin assembly protein	CALM	protein	NCBITaxon:9606	20221212	ARUK-UCL		UniProtKB:Q13492
+UniProtKB	Q96SZ5	ADO		GO:0005506	PMID:34508780	IDA		F	2-aminoethanethiol dioxygenase	C10orf22	protein	NCBITaxon:9606	20220301	UniProt		UniProtKB:Q96SZ5
+UniProtKB	Q9Y4C1	KDM3A		GO:0005506	PMID:16603237	IMP		F	Lysine-specific demethylase 3A	JHDM2A|JMJD1|JMJD1A|KIAA0742|TSGA	protein	NCBITaxon:9606	20080130	UniProt		UniProtKB:Q9Y4C1
+UniProtKB	P80188	LCN2		GO:0005506	PMID:27780864	IDA		F	Neutrophil gelatinase-associated lipocalin	HNL|NGAL	protein	NCBITaxon:9606	20180910	UniProt		UniProtKB:P80188
+UniProtKB	O75151	PHF2		GO:0005506	PMID:21167174	IDA		F	Lysine-specific demethylase PHF2	CENP-35|KIAA0662	protein	NCBITaxon:9606	20110517	UniProt		UniProtKB:O75151
+UniProtKB	Q6VVX0	CYP2R1		GO:0005506	PMID:18511070	IDA		F	Vitamin D 25-hydroxylase		protein	NCBITaxon:9606	20191220	UniProt		UniProtKB:Q6VVX0
+UniProtKB	Q8N4E7	FTMT		GO:0005506	PMID:15201052	IDA		F	Ferritin, mitochondrial		protein	NCBITaxon:9606	20220504	UniProt		UniProtKB:Q8N4E7
+UniProtKB	Q9UKA1	FBXL5		GO:0005506	PMID:19762596	IDA		F	F-box/LRR-repeat protein 5	FBL4|FBL5|FLR1	protein	NCBITaxon:9606	20091030	UniProt		UniProtKB:Q9UKA1
+UniProtKB	Q9UKA1	FBXL5		GO:0005506	PMID:19762597	IDA		F	F-box/LRR-repeat protein 5	FBL4|FBL5|FLR1	protein	NCBITaxon:9606	20091030	UniProt		UniProtKB:Q9UKA1
+UniProtKB	Q9UPP1	PHF8		GO:0005506	PMID:20023638	IDA		F	Histone lysine demethylase PHF8	KDM7B|KIAA1111|ZNF422	protein	NCBITaxon:9606	20100127	UniProt		UniProtKB:Q9UPP1
+UniProtKB	Q9UMS0	NFU1		GO:0005506	PMID:12886008	IDA		F	NFU1 iron-sulfur cluster scaffold homolog, mitochondrial	HIRIP5|CGI-33	protein	NCBITaxon:9606	20080630	UniProt		UniProtKB:Q9UMS0
+UniProtKB	Q06278	AOX1		GO:0005506	PMID:26322824	IDA		F	Aldehyde oxidase	AO	protein	NCBITaxon:9606	20170620	UniProt		UniProtKB:Q06278
+UniProtKB	Q06278	AOX1		GO:0005506	PMID:26842593	IDA		F	Aldehyde oxidase	AO	protein	NCBITaxon:9606	20170620	UniProt		UniProtKB:Q06278
+UniProtKB	P53384	NUBP1		GO:0006879	PMID:18573874	IMP		P	Cytosolic Fe-S cluster assembly factor NUBP1	NBP|NBP1	protein	NCBITaxon:9606	20090714	UniProt		UniProtKB:P53384
+UniProtKB	O00767	SCD		GO:0005506	PMID:18765284	IDA		F	Stearoyl-CoA desaturase	FADS5|SCD1|SCDOS	protein	NCBITaxon:9606	20150630	UniProt		UniProtKB:O00767
+UniProtKB	O75027	ABCB7		GO:0006879	PMID:30765471	IMP		P	Iron-sulfur clusters transporter ABCB7, mitochondrial	ABC7	protein	NCBITaxon:9606	20210304	UniProt		UniProtKB:O75027
+UniProtKB	O75027	ABCB7		GO:0034755	PMID:17192393	IDA		P	Iron-sulfur clusters transporter ABCB7, mitochondrial	ABC7	protein	NCBITaxon:9606	20210302	UniProt		UniProtKB:O75027
+UniProtKB	Q8NFU7	TET1		GO:0005506	PMID:19372391	IDA		F	Methylcytosine dioxygenase TET1	CXXC6|KIAA1676|LCX	protein	NCBITaxon:9606	20090430	UniProt		UniProtKB:Q8NFU7
+UniProtKB	O95571	ETHE1		GO:0005506	PMID:23144459	IDA		F	Persulfide dioxygenase ETHE1, mitochondrial	HSCO	protein	NCBITaxon:9606	20130604	UniProt		UniProtKB:O95571
+UniProtKB	P62136	PPP1CA		GO:0005506	PMID:30403291	IDA		F	Serine/threonine-protein phosphatase PP1-alpha catalytic subunit	PPP1A	protein	NCBITaxon:9606	20240529	UniProt		UniProtKB:P62136
+UniProtKB	O15296	ALOX15B		GO:0005506	PMID:24497644	IDA		F	Polyunsaturated fatty acid lipoxygenase ALOX15B		protein	NCBITaxon:9606	20140409	UniProt		UniProtKB:O15296
+UniProtKB	A2RUC4	TYW5		GO:0005506	PMID:20972222	IDA		F	tRNA wybutosine-synthesizing protein 5	C2orf60	protein	NCBITaxon:9606	20101217	UniProt		UniProtKB:A2RUC4
+UniProtKB	O60568	PLOD3		GO:0005506	PMID:30089812	EXP		F	Multifunctional procollagen lysine hydroxylase and glycosyltransferase LH3		protein	NCBITaxon:9606	20220228	DisProt		UniProtKB:O60568
+UniProtKB	P02792	FTL		GO:0005506	PMID:19923220	IDA		F	Ferritin light chain		protein	NCBITaxon:9606	20110328	UniProt		UniProtKB:P02792
+UniProtKB	P02792	FTL		GO:0005506	PMID:20159981	IDA		F	Ferritin light chain		protein	NCBITaxon:9606	20110328	UniProt		UniProtKB:P02792
+UniProtKB	P02788	LTF		GO:0005506	PMID:12037568	IDA		F	Lactotransferrin	GIG12|LF	protein	NCBITaxon:9606	20131113	UniProt		UniProtKB:P02788
+UniProtKB	Q6ZNB7	AGMO		GO:0005506	PMID:20643956	IMP		F	Alkylglycerol monooxygenase	TMEM195	protein	NCBITaxon:9606	20100819	UniProt		UniProtKB:Q6ZNB7
+UniProtKB	Q6FI81	CIAPIN1		GO:0005506	PMID:21700214	EXP		F	Anamorsin	CUA001|PRO0915	protein	NCBITaxon:9606	20220228	DisProt		UniProtKB:Q6FI81
+UniProtKB	Q99798	ACO2		GO:0005506	PMID:9630632	IDA		F	Aconitate hydratase, mitochondrial		protein	NCBITaxon:9606	20060110	MGI		UniProtKB:Q99798
+UniProtKB	Q9H1K1	ISCU		GO:0008270	PMID:30031876	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q9H1K1
+UniProtKB	Q14154	DELE1		GO:1990641	PMID:37327776	IDA		P	DAP3-binding cell death enhancer 1	DELE|KIAA0141	protein	NCBITaxon:9606	20230714	UniProt		UniProtKB:Q14154
+UniProtKB	Q14154	DELE1		GO:1990641	PMID:37327776	IDA		P	DAP3-binding cell death enhancer 1	DELE|KIAA0141	protein	NCBITaxon:9606	20240717	UniProt		UniProtKB:Q14154-PRO_0000050721
+UniProtKB	P0C7P0	CISD3		GO:0046872	PMID:29259115	IDA		F	CDGSH iron-sulfur domain-containing protein 3, mitochondrial		protein	NCBITaxon:9606	20181010	UniProt		UniProtKB:P0C7P0
+UniProtKB	Q9C0B1	FTO		GO:0008198	PMID:20376003	IDA		F	Alpha-ketoglutarate-dependent dioxygenase FTO	KIAA1752	protein	NCBITaxon:9606	20100506	UniProt		UniProtKB:Q9C0B1
+UniProtKB	Q13686	ALKBH1		GO:0008198	PMID:18603530	IDA		F	Nucleic acid dioxygenase ALKBH1	ABH|ABH1|ALKBH	protein	NCBITaxon:9606	20100504	UniProt		UniProtKB:Q13686
+UniProtKB	Q6N021	TET2		GO:0008198	PMID:24315485	IDA		F	Methylcytosine dioxygenase TET2	KIAA1546|Nbla00191	protein	NCBITaxon:9606	20140212	UniProt		UniProtKB:Q6N021
+UniProtKB	O14832	PHYH		GO:0008198	PMID:10744784	IDA		F	Phytanoyl-CoA dioxygenase, peroxisomal	PAHX	protein	NCBITaxon:9606	20200415	UniProt		UniProtKB:O14832
+UniProtKB	O14832	PHYH		GO:0008198	PMID:11555634	IDA		F	Phytanoyl-CoA dioxygenase, peroxisomal	PAHX	protein	NCBITaxon:9606	20200415	UniProt		UniProtKB:O14832
+UniProtKB	O14832	PHYH		GO:0008198	PMID:16186124	IDA		F	Phytanoyl-CoA dioxygenase, peroxisomal	PAHX	protein	NCBITaxon:9606	20170109	CAFA		UniProtKB:O14832
+UniProtKB	O14832	PHYH		GO:0008198	PMID:9326939	IDA		F	Phytanoyl-CoA dioxygenase, peroxisomal	PAHX	protein	NCBITaxon:9606	20200415	UniProt		UniProtKB:O14832
+UniProtKB	Q96Q83	ALKBH3		GO:0008198	PMID:16858410	IDA		F	Alpha-ketoglutarate-dependent dioxygenase alkB homolog 3	ABH3|DEPC1	protein	NCBITaxon:9606	20100504	UniProt		UniProtKB:Q96Q83
+UniProtKB	Q96KS0	EGLN2		GO:0008198	PMID:28594552	IDA		F	Prolyl hydroxylase EGLN2	EIT6	protein	NCBITaxon:9606	20180430	UniProt		UniProtKB:Q96KS0
+UniProtKB	Q16878	CDO1		GO:0008198	PMID:17135237	IDA		F	Cysteine dioxygenase type 1		protein	NCBITaxon:9606	20220113	UniProt		UniProtKB:Q16878
+UniProtKB	Q16595	FXN		GO:0008198	PMID:12785837	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080914	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008198	PMID:15123683	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080912	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008198	PMID:17285345	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080914	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008198	PMID:29576242	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20220630	UniProt		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008199	PMID:12785837	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080914	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q16595	FXN		GO:0008199	PMID:18537827	IDA		F	Frataxin, mitochondrial	FRDA|X25	protein	NCBITaxon:9606	20080912	BHF-UCL		UniProtKB:Q16595
+UniProtKB	Q9H1K1	ISCU		GO:0008198	PMID:38627381	IDA		F	Iron-sulfur cluster assembly enzyme ISCU	NIFUN	protein	NCBITaxon:9606	20250130	FlyBase		UniProtKB:Q9H1K1
+UniProtKB	Q9GZT9	EGLN1		GO:0008198	PMID:28594552	IDA		F	Egl nine homolog 1	C1orf12|PNAS-118|PNAS-137	protein	NCBITaxon:9606	20180430	UniProt		UniProtKB:Q9GZT9
+UniProtKB	Q9NWT6	HIF1AN		GO:0008198	PMID:12446723	IDA		F	Hypoxia-inducible factor 1-alpha inhibitor	FIH1	protein	NCBITaxon:9606	20200416	UniProt		UniProtKB:Q9NWT6
+ComplexPortal	CPX-2194	rrm1-rrm2_human		GO:0008199	PMID:24253041	IPI		F	Ribonucleoside-diphosphate reductase RR1 complex, RRM2 variant	RRM1:RRM2|Ribonucleotide diphosphate reductase RR1 complex|Class I ribonucleotide reductase complex|RNR complex|RIR1-RIR2 complex|Class I RR complex	protein_complex	NCBITaxon:9606	20251105	ComplexPortal		
+ComplexPortal	CPX-369	rrm1-rrm2b_human		GO:0008199	PMID:19728742	IPI		F	Ribonucleoside-diphosphate reductase RR1 complex, RRM2B variant	RRM1:RRM2B|Ribonucleotide diphosphate reductase RR1 complex|Class I ribonucleotide reductase complex|RNR complex|RIR1-RIR2B complex|p53-inducible ribonucleotide reductase complex|Class I RR complex	protein_complex	NCBITaxon:9606	20251105	ComplexPortal		
+UniProtKB	P37840	SNCA		GO:0008198	PMID:11850416	IDA		F	Alpha-synuclein	NACP|PARK1	protein	NCBITaxon:9606	20090918	UniProt		UniProtKB:P37840
+UniProtKB	Q9UGB7	MIOX		GO:0008199	PMID:18364358	IDA		F	Inositol oxygenase	ALDRL6|KSP32|RSOR	protein	NCBITaxon:9606	20110623	UniProt		UniProtKB:Q9UGB7
+UniProtKB	Q6P3W2	DNAJC24		GO:0008198	PMID:22367199	IDA		F	DnaJ homolog subfamily C member 24	DPH4|ZCSL3	protein	NCBITaxon:9606	20130625	UniProt		UniProtKB:Q6P3W2
+UniProtKB	P02787	TF		GO:0008198	PMID:18353247	IDA		F	Serotransferrin	PRO1400	protein	NCBITaxon:9606	20150702	BHF-UCL		UniProtKB:P02787
+UniProtKB	Q6NS38	ALKBH2		GO:0008198	PMID:18432238	IDA		F	DNA oxidative demethylase ALKBH2	ABH2	protein	NCBITaxon:9606	20100504	UniProt		UniProtKB:Q6NS38
+UniProtKB	P13686	ACP5		GO:0008198	PMID:15993892	IDA		F	Tartrate-resistant acid phosphatase type 5		protein	NCBITaxon:9606	20091119	UniProt		UniProtKB:P13686
+UniProtKB	P13686	ACP5		GO:0008199	PMID:15993892	IDA		F	Tartrate-resistant acid phosphatase type 5		protein	NCBITaxon:9606	20091119	UniProt		UniProtKB:P13686
+UniProtKB	P46952	HAAO		GO:0008198	PMID:12007609	IDA		F	3-hydroxyanthranilate 3,4-dioxygenase		protein	NCBITaxon:9606	20081208	UniProt		UniProtKB:P46952
+UniProtKB	P46952	HAAO		GO:0008198	PMID:28375145	IDA		F	3-hydroxyanthranilate 3,4-dioxygenase		protein	NCBITaxon:9606	20180220	UniProt		UniProtKB:P46952
+UniProtKB	P02794	FTH1		GO:0008198	PMID:9003196	IMP		F	Ferritin heavy chain	FTH|FTHL6|OK/SW-cl.84|PIG15	protein	NCBITaxon:9606	20230308	UniProt		UniProtKB:P02794
+UniProtKB	Q13492	PICALM		GO:0060586	PMID:22952941	IMP		P	Phosphatidylinositol-binding clathrin assembly protein	CALM	protein	NCBITaxon:9606	20221212	Alzheimers_University_of_Toronto		UniProtKB:Q13492
+UniProtKB	O75027	ABCB7		GO:0140466	PMID:33157103	IMP		P	Iron-sulfur clusters transporter ABCB7, mitochondrial	ABC7	protein	NCBITaxon:9606	20210305	UniProt		UniProtKB:O75027
+UniProtKB	Q9NZ45	CISD1		GO:0030170	PMID:36194135	IDA		F	CDGSH iron-sulfur domain-containing protein 1	C10orf70|ZCD1|MDS029	protein	NCBITaxon:9606	20221101	UniProt		UniProtKB:Q9NZ45
+UniProtKB	Q9NP58	ABCB6		GO:0015886	PMID:17006453	IMP		P	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20100806	UniProt		UniProtKB:Q9NP58
+UniProtKB	Q9NP58	ABCB6		GO:0015886	PMID:17661442	IDA		P	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20100806	UniProt		UniProtKB:Q9NP58
+UniProtKB	O15440	ABCC5		GO:0035351	PMID:24836561	IMP		P	ATP-binding cassette sub-family C member 5	MRP5	protein	NCBITaxon:9606	20210107	UniProt		UniProtKB:O15440
+UniProtKB	Q9NP58	ABCB6		GO:0035351	PMID:33007128	IDA		P	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20210205	UniProt		UniProtKB:Q9NP58
+UniProtKB	O15440	ABCC5		GO:0015232	PMID:24836561	IMP		F	ATP-binding cassette sub-family C member 5	MRP5	protein	NCBITaxon:9606	20210107	UniProt		UniProtKB:O15440
+UniProtKB	Q9NP58	ABCB6		GO:0015439	PMID:17006453	IMP		F	ATP-binding cassette sub-family B member 6	MTABC3|PRP|UMAT	protein	NCBITaxon:9606	20100806	UniProt		UniProtKB:Q9NP58

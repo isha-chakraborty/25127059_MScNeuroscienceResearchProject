@@ -1,0 +1,445 @@
+gene_symbol,occurrences,recurrence_label,module_id,module_order,module_label,disease_group,copper,broad_iron,core_iron,iron_class
+ABCB6,3,3/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ABCB6,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ABCB6,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO1,4,4/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO1,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO1,4,4/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO2,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ACO2,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ADO,3,3/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ADO,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ADO,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ALOX5,4,4/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ALOX5,4,4/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ALOX5,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ALOX5,4,4/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ARHGAP1,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ARHGAP1,2,2/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0A2,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0A2,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0A2,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0D1,4,4/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0D1,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0D1,4,4/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V0D1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V1A,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V1A,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ATP6V1A,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+B2M,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+B2M,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+B2M,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BCL2,7,7/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BMP6,4,4/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BMP6,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BMP6,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+BMP6,4,4/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+CAT,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CAT,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CAT,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+CIAPIN1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+CIAPIN1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+CLTC,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+CLTC,2,2/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+CPOX,2,2/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CPOX,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYB5B,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+CYB5B,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYB5B,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYB5B,4,4/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+CYP27A1,3,3/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYP27A1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYP27A1,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+CYP2E1,3,3/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+CYP2E1,3,3/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+CYP2E1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYP46A1,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+CYP46A1,2,2/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+CYP51A1,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+CYP51A1,4,4/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYP51A1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+CYP51A1,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+DGCR8,2,2/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+DGCR8,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+DNAJC24,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNAJC24,4,4/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNAJC24,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNAJC24,4,4/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNM2,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNM2,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DNM2,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DOHH,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DOHH,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DOHH,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+DUOX1,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+DUOX1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+DUOX1,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+EGLN1,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+EGLN1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+EIF2AK1,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+EIF2AK1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+EIF2AK1,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FBXL5,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FBXL5,3,3/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FBXL5,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FECH,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+FECH,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+FTH1,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTH1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTH1,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTH1,4,4/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTO,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTO,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+FTO,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+GLRX3,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+GLRX3,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+GLRX3,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+GLRX5,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+GLRX5,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+HIF1A,2,2/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+HIF1A,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+HMOX2,2,2/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+HMOX2,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+IREB2,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+IREB2,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ISCU,2,2/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+ISCU,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+KCNH7,5,5/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+KCNH7,5,5/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+KCNH7,5,5/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+KCNH7,5,5/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+KCNH7,5,5/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+KDM3A,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+KDM3A,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LMTK2,5,5/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LMTK2,5,5/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LMTK2,5,5/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LMTK2,5,5/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LMTK2,5,5/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LYRM4,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+LYRM4,2,2/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MCOLN1,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MCOLN1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MECR,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MECR,2,2/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MYC,4,4/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MYC,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MYC,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+MYC,4,4/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFAB1,2,2/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFAB1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS2,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS2,2,2/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS3,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS3,2,2/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS4,5,5/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS4,5,5/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS4,5,5/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS4,5,5/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS4,5,5/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS7,2,2/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS7,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS8,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS8,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NDUFS8,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NEO1,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NEO1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NEO1,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NFU1,4,4/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NFU1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NFU1,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NFU1,4,4/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NOX4,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+NOX4,2,2/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,FALSE,Broad iron only
+NR1D1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+NR1D1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+NUBP1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NUBP1,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NUBP1,3,3/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NUBPL,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NUBPL,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+NUBPL,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+PGRMC2,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PGRMC2,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PICALM,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+PICALM,2,2/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+PPOX,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PPOX,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+PXDN,6,6/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+SLC25A37,3,3/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC25A37,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC25A37,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC25A39,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC25A39,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A1,4,4/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A1,4,4/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A1,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A1,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A14,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A14,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A8,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC39A8,2,2/9,PSP_pink,9,"PSP
+pink",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC40A1,3,3/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC40A1,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC40A1,3,3/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC46A1,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC46A1,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC46A1,3,3/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC48A1,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SLC48A1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SMAD1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SMAD1,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+SNCA,4,4/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,TRUE,TRUE,TRUE,Core iron (also broad iron)
+SNCA,4,4/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,TRUE,TRUE,TRUE,Core iron (also broad iron)
+SNCA,4,4/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,TRUE,TRUE,TRUE,Core iron (also broad iron)
+SNCA,4,4/9,PSP_pink,9,"PSP
+pink",Movement disorders,TRUE,TRUE,TRUE,Core iron (also broad iron)
+STC2,5,5/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+STC2,5,5/9,AD_ERC_greenyellow,1,"ERC
+greenyellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+STC2,5,5/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+STC2,5,5/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+STC2,5,5/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+STEAP4,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+STEAP4,2,2/9,FTLD1_red,4,"FTLD1
+red",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+TBXAS1,2,2/9,AD_ERC_darkred,2,"ERC
+darkred",Alzheimer's disease,FALSE,TRUE,FALSE,Broad iron only
+TBXAS1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,FALSE,Broad iron only
+TET1,2,2/9,FTLD3_black,6,"FTLD3
+black",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TET1,2,2/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TET2,3,3/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TET2,3,3/9,FTLD2_darkmagenta,5,"FTLD2
+darkmagenta",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TET2,3,3/9,MSA_violet,8,"MSA
+violet",Movement disorders,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TFAP2A,2,2/9,AD_HIPPO_yellow,3,"HIPPO
+yellow",Alzheimer's disease,FALSE,TRUE,TRUE,Core iron (also broad iron)
+TFAP2A,2,2/9,FTLD3_turquoise,7,"FTLD3
+turquoise",Frontotemporal lobar degeneration,FALSE,TRUE,TRUE,Core iron (also broad iron)

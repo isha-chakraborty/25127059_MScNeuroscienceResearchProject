@@ -1,0 +1,31 @@
+Metal_category,Source_file,Source_term,Included_in_broad_set,Included_in_core_set
+Copper,cellular_response_to_copper_ion_3.txt,cellular response to copper ion,TRUE,NA
+Copper,copper_binding_3.txt,copper binding,TRUE,NA
+Copper,copper_chaperone_activity_3.txt,copper chaperone activity,TRUE,NA
+Copper,copper_homeostasis_3.txt,copper homeostasis,TRUE,NA
+Copper,copper_ion_detoxification_3.txt,copper ion detoxification,TRUE,NA
+Copper,copper_ion_export_3.txt,copper ion export,TRUE,NA
+Copper,copper_ion_homeostasis_3.txt,copper ion homeostasis,TRUE,NA
+Copper,copper_ion_import_3.txt,copper ion import,TRUE,NA
+Copper,copper_ion_transmembrane_transport_3.txt,copper ion transmembrane transport,TRUE,NA
+Copper,copper_ion_transmembrane_transporter_activity_3.txt,copper ion transmembrane transporter activity,TRUE,NA
+Copper,copper_transport_3.txt,copper transport,TRUE,NA
+Copper,copper_uptake_3.txt,copper uptake,TRUE,NA
+Copper,response_to_copper_ion_3.txt,response to copper ion,TRUE,NA
+Iron,cellular_response_to_iron_ion_3.txt,cellular response to iron ion,TRUE,TRUE
+Iron,ferric_iron_binding_3.txt,ferric iron binding,TRUE,TRUE
+Iron,ferrous_iron_binding_3.txt,ferrous iron binding,TRUE,TRUE
+Iron,ferroxidase_activity_3.txt,ferroxidase activity,TRUE,TRUE
+Iron,heme_binding_3.txt,heme binding,TRUE,FALSE
+Iron,heme_metabolic_process_3.txt,heme metabolic process,TRUE,FALSE
+Iron,heme_transport_3.txt,heme transport,TRUE,FALSE
+Iron,intracellular_iron_ion_homeostasis_3.txt,intracellular iron ion homeostasis,TRUE,TRUE
+Iron,iron_homeostasis_3.txt,iron homeostasis,TRUE,TRUE
+Iron,iron_import_into_cell_3.txt,iron import into cell,TRUE,TRUE
+Iron,iron_ion_binding_3.txt,iron ion binding,TRUE,TRUE
+Iron,iron_ion_transmembrane_transport_3.txt,iron ion transmembrane transport,TRUE,TRUE
+Iron,iron_ion_transmembrane_transporter_activity_3.txt,iron ion transmembrane transporter activity,TRUE,TRUE
+Iron,iron_ion_transport_3.txt,iron ion transport,TRUE,TRUE
+Iron,iron-sulfur_cluster_assembly_3.txt,iron-sulfur cluster assembly,TRUE,TRUE
+Iron,multicellular_organismal-level_iron_ion_homeostasis_3.txt,multicellular organismal-level iron ion homeostasis,TRUE,TRUE
+Iron,response_to_iron_ion_3.txt,response to iron ion,TRUE,TRUE
